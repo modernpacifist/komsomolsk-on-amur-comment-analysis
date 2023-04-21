@@ -99,7 +99,7 @@ if __name__ == '__main__':
     updated_js = rename_field(updated_js, "attributes_feature_geometry_coordinates_1", "CoordinatesLatitude")
     updated_js = rename_field(updated_js, "attributes_createdAt", "CreatedAt")
 
-    fields_to_keep = ["SubmissionLikes", "Category", "Description", "Participation", "Money", "Age", "ContactName", "LiveTime", "FeatureType", "GeometryType", "CoordinatesLongitude", "CoordinatesLatitude", "CreatedAt"]
+    fields_to_keep = ["id", "SubmissionLikes", "Category", "Description", "Participation", "Money", "Age", "ContactName", "LiveTime", "FeatureType", "GeometryType", "CoordinatesLongitude", "CoordinatesLatitude", "CreatedAt"]
     updated_js = drop_fields_except(updated_js, fields_to_keep)
 
     with open('./datasets/submissionsWithFormsCleanLikes.json', 'w') as f:
