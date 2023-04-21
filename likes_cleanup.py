@@ -12,7 +12,7 @@ def convert_likes(raw_json):
         if attributes is None:
             continue
         submission_likes_count = len(attributes.get('submissionLikes').get('data'))
-        j['submissionLikes'] = submission_likes_count
+        j['SubmissionLikes'] = submission_likes_count
         del j['attributes']['submissionLikes']
         updated_js.append(j)
 
@@ -46,10 +46,33 @@ def flatten_json(raw_json):
 
 
 def rename_field(raw_json, old_field_name, new_field_name):
+    if not all([old_field_name, new_field_name]):
+        return raw_json
     res = []
     for i in raw_json:
         i[new_field_name] = i.pop(old_field_name)
         res.append(i)
+    return res
+
+
+def delete_field(raw_json, field_name):
+    if not field_name:
+        return raw_json
+    res = []
+    for i in raw_json:
+        if not field_name in i:
+            res.append(i)
+            continue
+        del i[field_name]
+        res.append(i)
+    return res
+
+
+def drop_fields_except(raw_json, fields_to_keep):
+    res = []
+    for i in raw_json:
+        new_dict = {key: value for key, value in i.items() if key in fields_to_keep}
+        res.append(new_dict)
     return res
 
 
@@ -63,7 +86,21 @@ if __name__ == '__main__':
 
     updated_js = convert_likes(js)
     updated_js = flatten_json(updated_js)
-    updated_js = rename_field(updated_js, "id", "hehe")
+    updated_js = rename_field(updated_js, "attributes_feature_properties_data_type", "Category")
+    updated_js = rename_field(updated_js, "attributes_feature_properties_data_description", "Description")
+    updated_js = rename_field(updated_js, "attributes_feature_properties_data_participation", "Participation")
+    updated_js = rename_field(updated_js, "attributes_feature_properties_data_money", "Money")
+    updated_js = rename_field(updated_js, "attributes_feature_properties_data_age", "Age")
+    updated_js = rename_field(updated_js, "attributes_feature_properties_data_contactName", "ContactName")
+    updated_js = rename_field(updated_js, "attributes_feature_properties_data_time", "LiveTime")
+    updated_js = rename_field(updated_js, "attributes_feature_type", "FeatureType")
+    updated_js = rename_field(updated_js, "attributes_feature_geometry_type", "GeometryType")
+    updated_js = rename_field(updated_js, "attributes_feature_geometry_coordinates_0", "CoordinatesLongitude")
+    updated_js = rename_field(updated_js, "attributes_feature_geometry_coordinates_1", "CoordinatesLatitude")
+    updated_js = rename_field(updated_js, "attributes_createdAt", "CreatedAt")
+
+    fields_to_keep = ["SubmissionLikes", "Category", "Description", "Participation", "Money", "Age", "ContactName", "LiveTime", "FeatureType", "GeometryType", "CoordinatesLongitude", "CoordinatesLatitude", "CreatedAt"]
+    updated_js = drop_fields_except(updated_js, fields_to_keep)
 
     with open('./datasets/submissionsWithFormsCleanLikes.json', 'w') as f:
         json.dump(updated_js, f, ensure_ascii=False, indent=4)
