@@ -48,8 +48,7 @@ def flatten_json(raw_json):
 def rename_field(raw_json, old_field_name, new_field_name):
     res = []
     for i in raw_json:
-        i[new_field_name] = i.get(old_field_name)
-        del i[old_field_name]
+        i[new_field_name] = i.pop(old_field_name)
         res.append(i)
     return res
 
@@ -64,7 +63,7 @@ if __name__ == '__main__':
 
     updated_js = convert_likes(js)
     updated_js = flatten_json(updated_js)
-    # updated_js = rename_field(updated_js, "id", "hehe")
+    updated_js = rename_field(updated_js, "id", "hehe")
 
     with open('./datasets/submissionsWithFormsCleanLikes.json', 'w') as f:
         json.dump(updated_js, f, ensure_ascii=False, indent=4)

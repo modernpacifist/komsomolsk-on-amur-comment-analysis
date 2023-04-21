@@ -1,6 +1,5 @@
 [
     {
-        "id": 7,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Общественные пространства, природа и экология",
         "attributes_feature_properties_data_description": "Благоустроить Силинский лес: освещение, дорожки для пешеходов и велосипедов, возможно обустроить площадки для мангалов",
@@ -18,10 +17,10 @@
         "attributes_updatedAt": "2023-03-17T08:32:41.847Z",
         "attributes_publishedAt": "2023-03-17T08:32:41.841Z",
         "attributes_images_data": null,
-        "submissionLikes": 67
+        "submissionLikes": 67,
+        "hehe": 7
     },
     {
-        "id": 8,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Общественные пространства, природа и экология",
         "attributes_feature_properties_data_description": "Благоустроить Силинский лес",
@@ -47,10 +46,10 @@
         "attributes_comments_data_0_attributes_updatedAt": "2023-04-06T12:36:15.115Z",
         "attributes_comments_data_0_attributes_publishedAt": "2023-04-06T12:36:15.112Z",
         "attributes_images_data": null,
-        "submissionLikes": 61
+        "submissionLikes": 61,
+        "hehe": 8
     },
     {
-        "id": 9,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Дороги и транспорт",
         "attributes_feature_properties_data_description": "Здание автовокзала требует колоссальной реконструкции, или же замены!",
@@ -70,10 +69,10 @@
         "attributes_updatedAt": "2023-03-17T08:33:08.549Z",
         "attributes_publishedAt": "2023-03-17T08:33:08.543Z",
         "attributes_images_data": null,
-        "submissionLikes": 109
+        "submissionLikes": 109,
+        "hehe": 9
     },
     {
-        "id": 10,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Общественные пространства, природа и экология",
         "attributes_feature_properties_data_description": "Ремонтируют парк очень плохо, страшно коляской проехать. Огородите детскую детскую площадку. В 12 дня не работает ни один аттракцион. Нужно отреставрировать парк нормально, ",
@@ -93,10 +92,10 @@
         "attributes_updatedAt": "2023-03-17T08:32:23.428Z",
         "attributes_publishedAt": "2023-03-17T08:32:23.423Z",
         "attributes_images_data": null,
-        "submissionLikes": 44
+        "submissionLikes": 44,
+        "hehe": 10
     },
     {
-        "id": 11,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_test": null,
         "attributes_feature_properties_data_type": "Здоровье, образование, спорт и культура",
@@ -123,10 +122,10 @@
         "attributes_comments_data_0_attributes_updatedAt": "2023-03-21T14:06:47.569Z",
         "attributes_comments_data_0_attributes_publishedAt": "2023-03-21T14:06:47.566Z",
         "attributes_images_data": null,
-        "submissionLikes": 185
+        "submissionLikes": 185,
+        "hehe": 11
     },
     {
-        "id": 12,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Общественные пространства, природа и экология",
         "attributes_feature_properties_data_description": " привести в современное состояние парки города, где жители смогут отдохнуть от ежедневной суеты, заняться активными видами спорта и с пользой провести время",
@@ -145,10 +144,10 @@
         "attributes_updatedAt": "2023-03-16T09:29:04.660Z",
         "attributes_publishedAt": "2023-03-16T09:29:04.655Z",
         "attributes_images_data": null,
-        "submissionLikes": 116
+        "submissionLikes": 116,
+        "hehe": 12
     },
     {
-        "id": 13,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Дороги и транспорт",
         "attributes_feature_properties_data_description": "Возрождение муниципального транспорта-автобусы, трамваи",
@@ -166,10 +165,10 @@
         "attributes_updatedAt": "2023-03-16T09:29:12.535Z",
         "attributes_publishedAt": "2023-03-16T09:29:12.531Z",
         "attributes_images_data": null,
-        "submissionLikes": 123
+        "submissionLikes": 123,
+        "hehe": 13
     },
     {
-        "id": 14,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Дороги и транспорт",
         "attributes_feature_properties_data_description": "Восстановить нормальную работу Комсомольского аэропорта",
@@ -190,10 +189,10 @@
         "attributes_updatedAt": "2023-03-16T09:29:20.707Z",
         "attributes_publishedAt": "2023-03-16T09:29:20.702Z",
         "attributes_images_data": null,
-        "submissionLikes": 152
+        "submissionLikes": 152,
+        "hehe": 14
     },
     {
-        "id": 15,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Здоровье, образование, спорт и культура",
         "attributes_feature_properties_data_description": "Предлагаю провести реконструкцию одной из главных достопримечательностей города - дворца культуры \"Судостроитель\", который расположен на пересечении главных транспортных и пешеходных маршрутов и является центром притяжения жителей и гостей города.  К сожалению, данное здание в 2003 году практически полностью было уничтожено пожаром.",
@@ -211,10 +210,10 @@
         "attributes_updatedAt": "2023-03-16T09:29:30.302Z",
         "attributes_publishedAt": "2023-03-16T09:29:30.298Z",
         "attributes_images_data": null,
-        "submissionLikes": 101
+        "submissionLikes": 101,
+        "hehe": 15
     },
     {
-        "id": 16,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Дороги и транспорт",
         "attributes_feature_properties_data_description": "Учитывая,  что у нас в городе с очисткой дорог от снега полный хаос, нужен контрольный инструмент с функцией обратной связи от жителей города.\nНужен специальный программный продукт (портал) с общим доступом зарегистрированных на нем граждан,  в котором будет вестись интерактивный отчёт городских служб о фактически выполненных работах по уборке снега с конкретной привязкой (на карте города) объектов очистки и количестве привлекаемой техники (и какой техники).\nЖители города смогут зайти на этот ресурс и дать свои комментарии- действительно ли есть реально работа по уборке снега, прикрепить фото, что это совсем не так или наоборот подтвердить.\nВ нашей ситуации - информация это оружие,  оружие против очковтирательства со стороны городской администрации, что они занимаются уборкой и очисткой улиц, остановок, от снега.\nМожно оборудовать всю технику задействованую на уборке системой мониторинга  БСМТС (бортовые системы мониторинга транспортных средств) и будет понятно где, когда эта техника работала, так как есть во всех таких системах архив (история движения). Эти данные должны быть наложены и интергированы с картой вышеуказанного ресурса.\nЭто позволит увидеть жителям города, что властям не плевать на население и они (власти) действительно заинтересованы в благоустройстве.\nТем более данные технологии уже обкатаны - есть система контроля продвижения общественного транспорта,  в ГБЛД можно оставить фото интернета. \nДело за малым - принять решение и далее уже  реализовать. ",
@@ -234,10 +233,10 @@
         "attributes_updatedAt": "2023-03-16T09:29:45.152Z",
         "attributes_publishedAt": "2023-03-16T09:29:45.147Z",
         "attributes_images_data": null,
-        "submissionLikes": 137
+        "submissionLikes": 137,
+        "hehe": 16
     },
     {
-        "id": 17,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Общественные пространства, природа и экология",
         "attributes_feature_properties_data_description": "Набережная зимой не очищается от снега. ",
@@ -257,10 +256,10 @@
         "attributes_updatedAt": "2023-03-16T09:28:32.716Z",
         "attributes_publishedAt": "2023-03-16T09:28:32.712Z",
         "attributes_images_data": null,
-        "submissionLikes": 68
+        "submissionLikes": 68,
+        "hehe": 17
     },
     {
-        "id": 18,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Общественные пространства, природа и экология",
         "attributes_feature_properties_data_description": "Привести в порядок заброшенный парк. Восстановить дорожки, освещение, архитектуру",
@@ -281,10 +280,10 @@
         "attributes_updatedAt": "2023-03-16T09:28:21.572Z",
         "attributes_publishedAt": "2023-03-16T09:28:21.568Z",
         "attributes_images_data": null,
-        "submissionLikes": 75
+        "submissionLikes": 75,
+        "hehe": 18
     },
     {
-        "id": 19,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Общественные пространства, природа и экология",
         "attributes_feature_properties_data_description": "Привести в порядок заброшенный парк",
@@ -304,10 +303,10 @@
         "attributes_updatedAt": "2023-03-16T09:27:00.356Z",
         "attributes_publishedAt": "2023-03-16T09:27:00.346Z",
         "attributes_images_data": null,
-        "submissionLikes": 47
+        "submissionLikes": 47,
+        "hehe": 19
     },
     {
-        "id": 20,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Дороги и транспорт",
         "attributes_feature_properties_data_description": "Восстановить трамвайную линию и пустить маршруты",
@@ -327,10 +326,10 @@
         "attributes_updatedAt": "2023-03-16T09:24:47.295Z",
         "attributes_publishedAt": "2023-03-16T09:24:47.290Z",
         "attributes_images_data": null,
-        "submissionLikes": 80
+        "submissionLikes": 80,
+        "hehe": 20
     },
     {
-        "id": 21,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_test": null,
         "attributes_feature_properties_data_type": "Здоровье, образование, спорт и культура",
@@ -351,10 +350,10 @@
         "attributes_updatedAt": "2023-03-16T11:21:43.994Z",
         "attributes_publishedAt": "2023-03-16T11:21:43.990Z",
         "attributes_images_data": null,
-        "submissionLikes": 83
+        "submissionLikes": 83,
+        "hehe": 21
     },
     {
-        "id": 22,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Здоровье, образование, спорт и культура",
         "attributes_feature_properties_data_description": "Реконструкция стадиона Авангард ",
@@ -374,10 +373,10 @@
         "attributes_updatedAt": "2023-03-16T11:21:57.281Z",
         "attributes_publishedAt": "2023-03-16T11:21:57.277Z",
         "attributes_images_data": null,
-        "submissionLikes": 59
+        "submissionLikes": 59,
+        "hehe": 22
     },
     {
-        "id": 23,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Другое",
         "attributes_feature_properties_data_description": "Дайте денег городу. И все проблемы решатся сразу. Если держать бюджет города в постоянном дефиците нихрена ничего не получится. ЖКХ упирается в отсутствие средств. Ремонты школ д/с упираются в отсутствие средств. Уборка города, ремонты фасадов, ремонты тротуаров, автобусные остановки. Всё упирается в отсутствие средств",
@@ -395,10 +394,10 @@
         "attributes_updatedAt": "2023-03-17T09:03:52.514Z",
         "attributes_publishedAt": "2023-03-17T09:03:52.509Z",
         "attributes_images_data": null,
-        "submissionLikes": 55
+        "submissionLikes": 55,
+        "hehe": 23
     },
     {
-        "id": 24,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_test": null,
         "attributes_feature_properties_data_type": "Здоровье, образование, спорт и культура",
@@ -492,10 +491,10 @@
         "attributes_images_data_0_attributes_provider_metadata": null,
         "attributes_images_data_0_attributes_createdAt": "2023-03-16T23:48:21.391Z",
         "attributes_images_data_0_attributes_updatedAt": "2023-03-16T23:48:21.391Z",
-        "submissionLikes": 166
+        "submissionLikes": 166,
+        "hehe": 24
     },
     {
-        "id": 25,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Дороги и транспорт",
         "attributes_feature_properties_data_description": "Привет! Ребят, давайте что - то сделаем с тротуарами и сливами воды. \nПроблема следующая:\nБордюры, поребрики и прочее сделаны чуть выше чем сам тротуар, тем самым вода не может сливаться естественным способом. После дождя и таяния снегов вода задерживается на тротуарах и по ним просто не возможно ходить, а так же люди разносят грязь по всему городу на своей обуви. Просто, сделать более ровные тротуары и на одном уровне бордюр/поребрик, ну и в ИДЕАЛЕ как то придумать сам слив воды, тем самым направив его в ближайший канализационный люк\n\nПроблема номер дыва)00)): \nЛандшафт города - ужасный, но не прям сильно. Так уж вышло, что почти 99% территории никак не облагорожено, давайте банально постелим газон. И все, газон решит нашу проблему. А так же \"легализуем\" тропинки. Люди сокращают путь и вытаптывают тропинки, давайте просто ГРАВИЙКОЙ ОБЫЧНОЙ засыпим их, тем самым люди будут меньше разносить грязь. Город очень грязный, из за банального не постеленного газона. Давайте как то вокруг деревьев постелим плитку, засыпим тот же самый гравий, очень много грязи, капец просто как много грязи, кросовки пачкаются за 2 дня хождения по улице, машина грязнет на следующий день после мойки! \n\nЯ ГОТОВ ВЗЯТЬ ЛОПАТУ, И ВАМ ПОМОЧЬ ГОСПАДИ ДАВАЙТЕ ЧТО ТО С ЭТИМ СДЕЛАЕМ\n",
@@ -514,10 +513,10 @@
         "attributes_updatedAt": "2023-03-17T08:37:29.388Z",
         "attributes_publishedAt": "2023-03-17T08:37:29.383Z",
         "attributes_images_data": null,
-        "submissionLikes": 81
+        "submissionLikes": 81,
+        "hehe": 25
     },
     {
-        "id": 26,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Жилые дома и дворы",
         "attributes_feature_properties_data_description": "Отремонтировать проезды до школы №23, благоустроить дворы дикопольцева 36\\2, убрать недострой по адресу дикопольцева 36 корпус 3, навести порядок за бывшим кафе водолей.  Нет ни одного проезда к школе, там же расположен детский развивающий центр юность. Все загажено бродячими собаками, ",
@@ -539,10 +538,10 @@
         "attributes_updatedAt": "2023-03-17T08:36:17.008Z",
         "attributes_publishedAt": "2023-03-17T08:36:17.003Z",
         "attributes_images_data": null,
-        "submissionLikes": 29
+        "submissionLikes": 29,
+        "hehe": 26
     },
     {
-        "id": 27,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Общественные пространства, природа и экология",
         "attributes_feature_properties_data_description": "Штрафовать за выгул собак по всему городу, весь город завален собачим дерьмом. На стадионе школы 23 постоянно гуляют с собаками. ",
@@ -590,10 +589,10 @@
         "attributes_comments_data_0_attributes_commentLikes_data_3_attributes_createdAt": "2023-04-08T12:52:11.422Z",
         "attributes_comments_data_0_attributes_commentLikes_data_3_attributes_updatedAt": "2023-04-08T12:52:11.422Z",
         "attributes_images_data": null,
-        "submissionLikes": 108
+        "submissionLikes": 108,
+        "hehe": 27
     },
     {
-        "id": 28,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Здоровье, образование, спорт и культура",
         "attributes_feature_properties_data_description": "Городу нужна библиотека нового формата, отдельно стоящее здание, а не переделанное помещение старого фонда. Небольшое, но современное, привлекающее внимание детей и подростков, молодежи. Пространство, позволяющее реализовать возможность свободного расположения внутри (бескаркасная мебель и т.д), чтения, прослушивания аудио книг, клубной и кружковой деятельности, мастер-классов, игр (настольных и т.д)",
@@ -612,10 +611,10 @@
         "attributes_updatedAt": "2023-03-17T08:35:57.897Z",
         "attributes_publishedAt": "2023-03-17T08:35:57.892Z",
         "attributes_images_data": null,
-        "submissionLikes": 26
+        "submissionLikes": 26,
+        "hehe": 28
     },
     {
-        "id": 29,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Общественные пространства, природа и экология",
         "attributes_feature_properties_data_description": "Благоустройство пустыря за ФОКом на ул. Вокзальная ",
@@ -633,10 +632,10 @@
         "attributes_updatedAt": "2023-03-17T08:37:57.572Z",
         "attributes_publishedAt": "2023-03-17T08:37:57.567Z",
         "attributes_images_data": null,
-        "submissionLikes": 28
+        "submissionLikes": 28,
+        "hehe": 29
     },
     {
-        "id": 30,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Общественные пространства, природа и экология",
         "attributes_feature_properties_data_description": "Современный новый парк отдыха, многофункциональный,с разными зонами, например,площадки для детей,для воркаута,дорожки с ландшафтным дизайном для прогулок, пруд . Парк должен быть современным, с большим количеством зелёных насаждений,красивых инсталляций,цветов",
@@ -654,10 +653,10 @@
         "attributes_updatedAt": "2023-03-17T08:35:41.004Z",
         "attributes_publishedAt": "2023-03-17T08:35:40.996Z",
         "attributes_images_data": null,
-        "submissionLikes": 34
+        "submissionLikes": 34,
+        "hehe": 30
     },
     {
-        "id": 31,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Другое",
         "attributes_feature_properties_data_description": "Очистка зеленых зон города. \nРемонт ДК Судостроителей. \nУсиление контроля со стороны горожан за содержанием городских дорог, с обязательным условием реагирования служб в период 24 часа с момента обращения,и не важно будни это или выходные, так как административная и соответствующие службы не реагируют на обстоятельства - зимой - снег. Летом и осенью - дождь и поваленные деревья. Яркий пример с лета 2022го на Севастопольской лежит корень дерева, у ВАИ. \nФакел, пучит плитку. \nСоздание зон для молодёжи - те же фудкорты, можно на ЗЛК. \nРемонт фонтанов. \nРемонт ДК Строителей. \nСтроительство нового жилья для горожан, с первыми этажами под магазины или офисы. \nОрганизация парковок. \nСоздание многофункционального комплекса для отдыха горожан - кино, еда, магазины, отдых - тот же самый аквапарк, чтоб можно было придти всей семьёй. \nСооружение специальных мест для собачников - с полосой препятствий, и т.д.\nОзеленение города. \nОбустройство и охрана территории базы отдыха Амут. \nРемонт трубопроводов города. Интернациональный проспект сделали, а потом опять раскопали - лопнули свежие и старые трубы. \nПроехать невозможно. \nВыравнивания наклона на пересечении улиц Вокзальной/Гамарника. Каждый дождь - там озеро. \n",
@@ -675,10 +674,10 @@
         "attributes_updatedAt": "2023-03-17T08:31:43.248Z",
         "attributes_publishedAt": "2023-03-17T08:31:43.243Z",
         "attributes_images_data": null,
-        "submissionLikes": 37
+        "submissionLikes": 37,
+        "hehe": 31
     },
     {
-        "id": 32,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_test": null,
         "attributes_feature_properties_data_type": "Общественные пространства, природа и экология",
@@ -699,10 +698,10 @@
         "attributes_updatedAt": "2023-03-17T08:31:24.765Z",
         "attributes_publishedAt": "2023-03-17T08:31:24.762Z",
         "attributes_images_data": null,
-        "submissionLikes": 44
+        "submissionLikes": 44,
+        "hehe": 32
     },
     {
-        "id": 33,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_test": null,
         "attributes_feature_properties_data_type": "Жилые дома и дворы",
@@ -724,10 +723,10 @@
         "attributes_updatedAt": "2023-03-17T09:05:45.754Z",
         "attributes_publishedAt": "2023-03-17T09:05:45.750Z",
         "attributes_images_data": null,
-        "submissionLikes": 28
+        "submissionLikes": 28,
+        "hehe": 33
     },
     {
-        "id": 34,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Общественные пространства, природа и экология",
         "attributes_feature_properties_data_description": "Необходимо построить в Ленинском и Центральном округах скверы с детским игровым оборудованием в пешей доступности. В настоящее время такие объекты находятся преимущественно в парках, то есть на значительном расстоянии от мест проживания.",
@@ -747,10 +746,10 @@
         "attributes_updatedAt": "2023-03-17T08:30:25.230Z",
         "attributes_publishedAt": "2023-03-17T08:30:25.225Z",
         "attributes_images_data": null,
-        "submissionLikes": 36
+        "submissionLikes": 36,
+        "hehe": 34
     },
     {
-        "id": 35,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Другое",
         "attributes_feature_properties_data_description": "Постройте нам аквапарк",
@@ -770,10 +769,10 @@
         "attributes_updatedAt": "2023-03-17T08:27:50.875Z",
         "attributes_publishedAt": "2023-03-17T08:27:50.870Z",
         "attributes_images_data": null,
-        "submissionLikes": 41
+        "submissionLikes": 41,
+        "hehe": 35
     },
     {
-        "id": 36,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Здоровье, образование, спорт и культура",
         "attributes_feature_properties_data_description": "Аквапарк в городе , для детей и взрослых, чтобы молодежь меньше уезжала, нужно благоустраивать детей сводить в городе в выходные не куда !",
@@ -791,10 +790,10 @@
         "attributes_updatedAt": "2023-03-17T08:27:38.623Z",
         "attributes_publishedAt": "2023-03-17T08:27:38.613Z",
         "attributes_images_data": null,
-        "submissionLikes": 49
+        "submissionLikes": 49,
+        "hehe": 36
     },
     {
-        "id": 37,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Общественные пространства, природа и экология",
         "attributes_feature_properties_data_description": "В Ленинском районе введены в строй два спортивных сооружения по пр. Победы, но со стороны ул. Ленинградской территория, прилегающая к спортивным комплексам, в полном беспорядке. Здесь можно построить сквер и даже торговый центр не помешает. ",
@@ -813,10 +812,10 @@
         "attributes_updatedAt": "2023-03-17T08:27:15.630Z",
         "attributes_publishedAt": "2023-03-17T08:27:15.626Z",
         "attributes_images_data": null,
-        "submissionLikes": 32
+        "submissionLikes": 32,
+        "hehe": 37
     },
     {
-        "id": 38,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_test": null,
         "attributes_feature_properties_data_type": "Общественные пространства, природа и экология",
@@ -837,10 +836,10 @@
         "attributes_updatedAt": "2023-03-17T08:26:56.469Z",
         "attributes_publishedAt": "2023-03-17T08:26:56.466Z",
         "attributes_images_data": null,
-        "submissionLikes": 31
+        "submissionLikes": 31,
+        "hehe": 38
     },
     {
-        "id": 39,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_test": null,
         "attributes_feature_properties_data_type": "Общественные пространства, природа и экология",
@@ -862,10 +861,10 @@
         "attributes_updatedAt": "2023-03-17T08:26:31.085Z",
         "attributes_publishedAt": "2023-03-17T08:26:31.080Z",
         "attributes_images_data": null,
-        "submissionLikes": 40
+        "submissionLikes": 40,
+        "hehe": 39
     },
     {
-        "id": 40,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Общественные пространства, природа и экология",
         "attributes_feature_properties_data_description": "Создание общественного пространства на территории между ул.Орловской и ул.Гагарина",
@@ -886,10 +885,10 @@
         "attributes_updatedAt": "2023-03-17T08:23:17.493Z",
         "attributes_publishedAt": "2023-03-17T08:23:17.489Z",
         "attributes_images_data": null,
-        "submissionLikes": 18
+        "submissionLikes": 18,
+        "hehe": 40
     },
     {
-        "id": 41,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_test": null,
         "attributes_feature_properties_data_type": "Производство, торговля и услуги",
@@ -911,10 +910,10 @@
         "attributes_updatedAt": "2023-03-17T08:22:55.466Z",
         "attributes_publishedAt": "2023-03-17T08:22:55.463Z",
         "attributes_images_data": null,
-        "submissionLikes": 30
+        "submissionLikes": 30,
+        "hehe": 41
     },
     {
-        "id": 42,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Дороги и транспорт",
         "attributes_feature_properties_data_description": "В третьем по численности городе Дальнего востока отсутствуют прямые рейсы в Москву и другие крупные города нашей страны.",
@@ -933,10 +932,10 @@
         "attributes_updatedAt": "2023-03-17T08:22:47.581Z",
         "attributes_publishedAt": "2023-03-17T08:22:47.578Z",
         "attributes_images_data": null,
-        "submissionLikes": 69
+        "submissionLikes": 69,
+        "hehe": 42
     },
     {
-        "id": 43,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Здоровье, образование, спорт и культура",
         "attributes_feature_properties_data_description": "Я хочу и даже требую, чтобы наш город \"Президентского внимания\" был обеспечен системой непрерывного мониторинга он же Либра. Для детей инвалидов, страдающих сахарным диабетом, в нашем городе к сожалению есть лети, начиная с 2х летнего возраста которые болеют диабетом, колоть по 10 раз пальчики в сутки это очень больно, а так же не всегда уследишь что падает или растёт сахар, что может привести к коме.. очень жаль, что соседние города обеспечивают детей и так же людей с сахарным диабетом 1 типа, за счёт федерального бюджета, а в нашем городе это невозможно. ",
@@ -956,10 +955,10 @@
         "attributes_updatedAt": "2023-03-17T09:06:05.115Z",
         "attributes_publishedAt": "2023-03-17T09:06:05.108Z",
         "attributes_images_data": null,
-        "submissionLikes": 131
+        "submissionLikes": 131,
+        "hehe": 43
     },
     {
-        "id": 44,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Дороги и транспорт",
         "attributes_feature_properties_data_description": "Закатать в асфальт, либо демонтировать все рельсы на перекрёстках города. Это позволит повысить пропускную способность дорог и удобство и для водителей. Из очевидных примеров перекрёстки: ул. Базовая - Комсомольское шоссе, пл. Металлургов, все перекрестки по пр. Ленина от пл. Металлургов до пл. Володарского включительно, все перекрестки по пр. Мира от пл. Металлургов до ул. Дзержинского включительно",
@@ -979,10 +978,10 @@
         "attributes_updatedAt": "2023-03-17T08:22:00.276Z",
         "attributes_publishedAt": "2023-03-17T08:22:00.272Z",
         "attributes_images_data": null,
-        "submissionLikes": 37
+        "submissionLikes": 37,
+        "hehe": 44
     },
     {
-        "id": 45,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Общественные пространства, природа и экология",
         "attributes_feature_properties_data_description": "решить вопрос о местах выгула и дрессировки собак, исключить выгул домашних животных в общественных местах.\nчтобы улицы и дворы города перестали представлять \"желто-коричневое\"  поле, затмевающее белый снег, и.круглый год без контрольно появляющееся в любом общественном месте (от автобусной остановки до детской площадки). \nначать хотя бы с правил выгула домашних животных и редактирования конкурсных документов, например для НКО и в т.ч. ТСЖ, где указать в числе приоритетов создания соответствующих пространств.",
@@ -1001,10 +1000,10 @@
         "attributes_updatedAt": "2023-03-17T09:06:23.080Z",
         "attributes_publishedAt": "2023-03-17T09:06:23.076Z",
         "attributes_images_data": null,
-        "submissionLikes": 55
+        "submissionLikes": 55,
+        "hehe": 45
     },
     {
-        "id": 46,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Общественные пространства, природа и экология",
         "attributes_feature_properties_data_description": "Здравствуйте! Сначала опишу проблему. Это отсутствие общестыенных туалетов в городе. Их просто нет. Совсем. И вот предложение, сделать общественные туалеты в городе, где нибудь поблизости от главных улиц. Очень тяжело пожилым, беременным или с детьми ходить магазинам, делам, и не иметь возможности сходить в туалет. Пусть платные, но хотя бы будут. ",
@@ -1022,10 +1021,10 @@
         "attributes_updatedAt": "2023-03-17T08:10:02.049Z",
         "attributes_publishedAt": "2023-03-17T08:10:02.044Z",
         "attributes_images_data": null,
-        "submissionLikes": 83
+        "submissionLikes": 83,
+        "hehe": 46
     },
     {
-        "id": 47,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_test": null,
         "attributes_feature_properties_data_type": "Общественные пространства, природа и экология",
@@ -1046,10 +1045,10 @@
         "attributes_updatedAt": "2023-03-17T08:08:41.574Z",
         "attributes_publishedAt": "2023-03-17T08:08:41.570Z",
         "attributes_images_data": null,
-        "submissionLikes": 27
+        "submissionLikes": 27,
+        "hehe": 47
     },
     {
-        "id": 48,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Здоровье, образование, спорт и культура",
         "attributes_feature_properties_data_description": "Откройте пожалуйста новый современный кинотеатр на Дземгах.",
@@ -1068,10 +1067,10 @@
         "attributes_updatedAt": "2023-03-17T08:08:51.666Z",
         "attributes_publishedAt": "2023-03-17T08:08:51.663Z",
         "attributes_images_data": null,
-        "submissionLikes": 19
+        "submissionLikes": 19,
+        "hehe": 48
     },
     {
-        "id": 49,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Здоровье, образование, спорт и культура",
         "attributes_feature_properties_data_description": "Очень нужна реконструкция подъезда к травм пункту по улице Димитрова! Необходимо, чтобы подъезд был непосредственно к крыльцу, а крыльцо оснащено удобными пандусами. Также необходим паедус для автомобилей СМП  в роддоме 7 больницы, требует ремонта подьездная дорога к гинекологическому отделению на Комшоссе ",
@@ -1089,10 +1088,10 @@
         "attributes_updatedAt": "2023-03-17T08:09:14.631Z",
         "attributes_publishedAt": "2023-03-17T08:09:14.627Z",
         "attributes_images_data": null,
-        "submissionLikes": 39
+        "submissionLikes": 39,
+        "hehe": 49
     },
     {
-        "id": 50,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Другое",
         "attributes_feature_properties_data_description": "Раздавать 10 лососей бесплатно каждому жителю города!\n",
@@ -1110,10 +1109,10 @@
         "attributes_updatedAt": "2023-03-17T09:03:37.124Z",
         "attributes_publishedAt": "2023-03-17T09:03:37.119Z",
         "attributes_images_data": null,
-        "submissionLikes": 38
+        "submissionLikes": 38,
+        "hehe": 50
     },
     {
-        "id": 51,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_test": null,
         "attributes_feature_properties_data_type": "Дороги и транспорт",
@@ -1136,10 +1135,10 @@
         "attributes_updatedAt": "2023-03-17T09:06:58.210Z",
         "attributes_publishedAt": "2023-03-17T09:06:58.203Z",
         "attributes_images_data": null,
-        "submissionLikes": 67
+        "submissionLikes": 67,
+        "hehe": 51
     },
     {
-        "id": 52,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Другое",
         "attributes_feature_properties_data_description": "Разработать приложение с помощью которого граждани могли фиксировать нарушения ПДД, а именно такие моменты как парковка на тротуаре, на пешеходном переходе, на повороте, на зеленой зоне, на подобие помощника Москвы, автохамы совсем надоели",
@@ -1159,10 +1158,10 @@
         "attributes_updatedAt": "2023-03-17T09:07:09.862Z",
         "attributes_publishedAt": "2023-03-17T09:07:09.857Z",
         "attributes_images_data": null,
-        "submissionLikes": 45
+        "submissionLikes": 45,
+        "hehe": 52
     },
     {
-        "id": 53,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Дороги и транспорт",
         "attributes_feature_properties_data_description": "Оградить тротуары во дворах, потому что автолюбители ставят туда свои замечательные машины. ",
@@ -1180,10 +1179,10 @@
         "attributes_updatedAt": "2023-03-17T09:07:16.879Z",
         "attributes_publishedAt": "2023-03-17T09:07:16.874Z",
         "attributes_images_data": null,
-        "submissionLikes": 37
+        "submissionLikes": 37,
+        "hehe": 53
     },
     {
-        "id": 54,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Дороги и транспорт",
         "attributes_feature_properties_data_description": "Установка камер видеофиксацыии скоростного режима и проезда на красный сигал светофора",
@@ -1203,10 +1202,10 @@
         "attributes_updatedAt": "2023-03-17T09:07:42.017Z",
         "attributes_publishedAt": "2023-03-17T09:07:42.012Z",
         "attributes_images_data": null,
-        "submissionLikes": 44
+        "submissionLikes": 44,
+        "hehe": 54
     },
     {
-        "id": 55,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Дороги и транспорт",
         "attributes_feature_properties_data_description": "В каждом автобусе установите пожалуйста терминал для оплаты картой! \nОстановки необходимо привести в порядок. Я бы обратилась на дизайнерский факультет в Политене. Пусть ребята разработают единый дизайн остановок. Простых, лаконичных, можно с небольшим киоском с мелочами.",
@@ -1226,10 +1225,10 @@
         "attributes_updatedAt": "2023-03-17T10:25:06.056Z",
         "attributes_publishedAt": "2023-03-17T10:25:06.053Z",
         "attributes_images_data": null,
-        "submissionLikes": 67
+        "submissionLikes": 67,
+        "hehe": 55
     },
     {
-        "id": 56,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Общественные пространства, природа и экология",
         "attributes_feature_properties_data_description": "Я считаю в нашем городе первоначально должны быть элементарные условия для комфортного проживания, а именно - лавочки, урны, общественные туалеты! С этого начинается, циаилизация. ",
@@ -1249,10 +1248,10 @@
         "attributes_updatedAt": "2023-03-17T10:25:19.147Z",
         "attributes_publishedAt": "2023-03-17T10:25:19.141Z",
         "attributes_images_data": null,
-        "submissionLikes": 54
+        "submissionLikes": 54,
+        "hehe": 56
     },
     {
-        "id": 57,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Жилые дома и дворы",
         "attributes_feature_properties_data_description": "Нужно строить новые микрорайоны   , необходимо в городе построить новый автовокзал и новый международный аэропорт. Городу нужны новые поликлиники и больницы .",
@@ -1272,10 +1271,10 @@
         "attributes_updatedAt": "2023-03-17T11:35:14.056Z",
         "attributes_publishedAt": "2023-03-17T11:35:14.040Z",
         "attributes_images_data": null,
-        "submissionLikes": 30
+        "submissionLikes": 30,
+        "hehe": 57
     },
     {
-        "id": 58,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Дороги и транспорт",
         "attributes_feature_properties_data_description": "Наладить работу общественного транспорта. Закупка новых автобусов. Разработка грамотной схемы движения. Увеличение режима работы транспорта. Установка современных автобусных павильонов. ",
@@ -1294,10 +1293,10 @@
         "attributes_updatedAt": "2023-03-17T13:53:48.274Z",
         "attributes_publishedAt": "2023-03-17T13:53:48.271Z",
         "attributes_images_data": null,
-        "submissionLikes": 58
+        "submissionLikes": 58,
+        "hehe": 58
     },
     {
-        "id": 59,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Здоровье, образование, спорт и культура",
         "attributes_feature_properties_data_description": "Открытие коворкинг- центров на базе действующих библиотек. Чтобы молодежь не по подъездам скиталась, а было бы место где тепло, светло, есть туалет, кофе- автоматы, вайфай, настольные игры.",
@@ -1316,10 +1315,10 @@
         "attributes_updatedAt": "2023-03-17T13:53:41.729Z",
         "attributes_publishedAt": "2023-03-17T13:53:41.725Z",
         "attributes_images_data": null,
-        "submissionLikes": 23
+        "submissionLikes": 23,
+        "hehe": 59
     },
     {
-        "id": 60,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Здоровье, образование, спорт и культура",
         "attributes_feature_properties_data_description": "Горнолыжная база Амут. Шикарное место для туризма, спорта, отдыха. На данный момент не забросили. Там есть уже вся инфраструктура. Проводить занятия- обучения, соревнования, фестивали",
@@ -1338,10 +1337,10 @@
         "attributes_updatedAt": "2023-03-17T13:53:35.042Z",
         "attributes_publishedAt": "2023-03-17T13:53:35.039Z",
         "attributes_images_data": null,
-        "submissionLikes": 25
+        "submissionLikes": 25,
+        "hehe": 60
     },
     {
-        "id": 61,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Здоровье, образование, спорт и культура",
         "attributes_feature_properties_data_description": "Создание на базе каждой школы спортивного отряда. Развитие командных видов спорта в школах (волейбол, футбол, лёгкая атлетика). Проведение ежемесячных турниров между школами. Вовлечение детей в спорт, развитие спортивного азарта, как следствие- желание посещать школу, командообразование.",
@@ -1359,10 +1358,10 @@
         "attributes_updatedAt": "2023-03-17T13:53:27.492Z",
         "attributes_publishedAt": "2023-03-17T13:53:27.490Z",
         "attributes_images_data": null,
-        "submissionLikes": 26
+        "submissionLikes": 26,
+        "hehe": 61
     },
     {
-        "id": 62,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Здоровье, образование, спорт и культура",
         "attributes_feature_properties_data_description": "Развитие велосипедной сети. Обустройство качественных велодорожек, установка велопарковок. Итог- большее число граждан вовлечённых в спортивную жизнь, уменьшение нагрузки на общественный транспорт.",
@@ -1380,10 +1379,10 @@
         "attributes_updatedAt": "2023-03-17T13:53:19.686Z",
         "attributes_publishedAt": "2023-03-17T13:53:19.683Z",
         "attributes_images_data": null,
-        "submissionLikes": 52
+        "submissionLikes": 52,
+        "hehe": 62
     },
     {
-        "id": 63,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Общественные пространства, природа и экология",
         "attributes_feature_properties_data_description": "Установка урн для выброса собачьих экскрементов. Установка информационных табличек о необходимости уборки за своими животными. Приучение населения к этой необходимости. Введение штрафов за несоблюдение. Итог- чистые дворы и улицы, особенно в зимне- весенний период",
@@ -1401,10 +1400,10 @@
         "attributes_updatedAt": "2023-03-17T13:53:13.345Z",
         "attributes_publishedAt": "2023-03-17T13:53:13.341Z",
         "attributes_images_data": null,
-        "submissionLikes": 57
+        "submissionLikes": 57,
+        "hehe": 63
     },
     {
-        "id": 64,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Общественные пространства, природа и экология",
         "attributes_feature_properties_data_description": "Открытие територии арт- пространства на базе бывших заброшенных складов, баз, заводов или фабрик. Пространство где можно устраивать фестивали, концерты, рисовать граффити, продавать изделия ручной работы, куда можно прийти в любое время посидеть, взять книгу, посмотреть кино. Такое очень творческое и молодежное место! Но без привлечения специалистов из отдела культуры администрации. Чтобы молодежь сама решала, что они бы там хотели. Такой творческий кластер.",
@@ -1423,10 +1422,10 @@
         "attributes_updatedAt": "2023-03-17T13:53:04.891Z",
         "attributes_publishedAt": "2023-03-17T13:53:04.888Z",
         "attributes_images_data": null,
-        "submissionLikes": 19
+        "submissionLikes": 19,
+        "hehe": 64
     },
     {
-        "id": 65,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_test": null,
         "attributes_feature_properties_data_type": "Общественные пространства, природа и экология",
@@ -1449,10 +1448,10 @@
         "attributes_updatedAt": "2023-03-20T08:12:37.819Z",
         "attributes_publishedAt": "2023-03-20T08:12:37.816Z",
         "attributes_images_data": null,
-        "submissionLikes": 44
+        "submissionLikes": 44,
+        "hehe": 65
     },
     {
-        "id": 67,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Жилые дома и дворы",
         "attributes_feature_properties_data_description": "Построить в городе несколько общежитий что бы молодым людям по той или иной причине не \"тянущих\" ипотеку было где жить. У нас в городе очень много людей живущих на съемных квартирах. А ценники от 15 до 30 т.р.",
@@ -1472,10 +1471,10 @@
         "attributes_updatedAt": "2023-03-20T08:16:44.422Z",
         "attributes_publishedAt": "2023-03-20T08:16:44.418Z",
         "attributes_images_data": null,
-        "submissionLikes": 20
+        "submissionLikes": 20,
+        "hehe": 67
     },
     {
-        "id": 68,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Инженерные системы города",
         "attributes_feature_properties_data_description": "В частном секторе мылки сделать центральную канализацию и дороги",
@@ -1493,10 +1492,10 @@
         "attributes_updatedAt": "2023-03-20T08:16:58.527Z",
         "attributes_publishedAt": "2023-03-20T08:16:58.522Z",
         "attributes_images_data": null,
-        "submissionLikes": 10
+        "submissionLikes": 10,
+        "hehe": 68
     },
     {
-        "id": 69,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Общественные пространства, природа и экология",
         "attributes_feature_properties_data_description": "Создание сквера, специализированных для выгула собак. Невозможно ходить по \"заминированным\" дворам, везде грязно, хочется, чтобы у собачников было отдельное место для выгула своих питомцев с обязанностью убирать за ними. ",
@@ -1514,10 +1513,10 @@
         "attributes_updatedAt": "2023-03-20T08:17:47.141Z",
         "attributes_publishedAt": "2023-03-20T08:17:47.136Z",
         "attributes_images_data": null,
-        "submissionLikes": 32
+        "submissionLikes": 32,
+        "hehe": 69
     },
     {
-        "id": 70,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Общественные пространства, природа и экология",
         "attributes_feature_properties_data_description": "Увеличить количество точек питания с круглосуточным обслуживанием.",
@@ -1535,10 +1534,10 @@
         "attributes_updatedAt": "2023-03-20T08:17:57.447Z",
         "attributes_publishedAt": "2023-03-20T08:17:57.444Z",
         "attributes_images_data": null,
-        "submissionLikes": 11
+        "submissionLikes": 11,
+        "hehe": 70
     },
     {
-        "id": 71,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Инженерные системы города",
         "attributes_feature_properties_data_description": "Размещение телефонных будок на улицах и общественных туалетов ",
@@ -1556,10 +1555,10 @@
         "attributes_updatedAt": "2023-03-20T08:18:06.477Z",
         "attributes_publishedAt": "2023-03-20T08:18:06.471Z",
         "attributes_images_data": null,
-        "submissionLikes": 19
+        "submissionLikes": 19,
+        "hehe": 71
     },
     {
-        "id": 72,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Общественные пространства, природа и экология",
         "attributes_feature_properties_data_description": "Провести мероприятия по усилению контроля за службами, занимающимися уборкой мусора на улицах города.",
@@ -1578,10 +1577,10 @@
         "attributes_updatedAt": "2023-03-20T08:18:15.545Z",
         "attributes_publishedAt": "2023-03-20T08:18:15.541Z",
         "attributes_images_data": null,
-        "submissionLikes": 26
+        "submissionLikes": 26,
+        "hehe": 72
     },
     {
-        "id": 73,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Другое",
         "attributes_feature_properties_data_description": "Приведите в надлежащее состояние то, что есть:\nОтремонтируйте все трубы, подвалы, подьезды, крыши, фасады жилых домов. Установите все приборы учета и уличное освещение и камеры видеонаблюдения.\nЗаасфальтируйте все дороги города и частного сектора в том числе. Сделайте везде пешеходные дорожки и освещение. Поставьте скамейки и урны.\nНе менее чем в каждом квартале необходимо оборудовать общественные туалеты. \nПровести обрезку и выкарчевывание больных деревьев везде, особенно во дворах, парках, территориях учебных заведений.\nОбязать всех владельцев торговых точек, в том числе расположенных в жилых домах производить отплату всех потребляемых ресурсов (отопление, вода, водоотведение, электроэнергия и пр.), а не только аренду помещения, чтобы не ложилось бременем на жильцов этих домов. А так же обязать создать парковочные места возле своих торговых точках, проводить благоустройство прилегающих территорий, проводить их уборку летом и очистку от снега зимой. Установить туалет общего пользования.\nВ связи с сложившийся негативной ситуацией на общественном транспорте из за проведенной реформы администрацией города, обязать все предприятия города обеспечить доставку своих работников на работу и с работы служебным транспортом.\nУчреждениям, имеющим ограждения территории, затрудняющие передвижение людей в дневное время по данной территории, установить калитки в ограждении и пешеходные дорожки по территории для свободного передвижения. \nСделать медицинское обслуживание качественным и ДОСТУПНЫМ. Убрать все журналы ожидания очереди. Организовать прием пациента врачом в день обращения. А запись на любое обследование и к узкому специалисту не позднее месяца со дня обращения.\nВ каждом районе города должен быть действующий приведенный в надлежащее состояние парк отдыха, дом культуры, развлекательный детский центр, дом быта, дом молодежи и спорткомплекс для полноценного досуга детей, молодежи и семей.\nСделать общественный транспорт круглосуточным, удобным, чистым, комфортным, доступным (стоимость и возможность безналичной оплаты обязательной)\nИ многое другое. Если сделать порядок в элементарном, что есть, тогда и о других планах можно подумать",
@@ -1600,10 +1599,10 @@
         "attributes_updatedAt": "2023-03-20T08:18:46.589Z",
         "attributes_publishedAt": "2023-03-20T08:18:46.585Z",
         "attributes_images_data": null,
-        "submissionLikes": 52
+        "submissionLikes": 52,
+        "hehe": 73
     },
     {
-        "id": 74,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_test": null,
         "attributes_feature_properties_data_type": "Здоровье, образование, спорт и культура",
@@ -1625,10 +1624,10 @@
         "attributes_updatedAt": "2023-03-20T08:12:49.507Z",
         "attributes_publishedAt": "2023-03-20T08:12:49.502Z",
         "attributes_images_data": null,
-        "submissionLikes": 15
+        "submissionLikes": 15,
+        "hehe": 74
     },
     {
-        "id": 75,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_test": null,
         "attributes_feature_properties_data_type": "Дороги и транспорт",
@@ -1650,10 +1649,10 @@
         "attributes_updatedAt": "2023-03-20T08:19:07.764Z",
         "attributes_publishedAt": "2023-03-20T08:19:07.756Z",
         "attributes_images_data": null,
-        "submissionLikes": 29
+        "submissionLikes": 29,
+        "hehe": 75
     },
     {
-        "id": 76,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_test": null,
         "attributes_feature_properties_data_type": "Общественные пространства, природа и экология",
@@ -1675,10 +1674,10 @@
         "attributes_updatedAt": "2023-03-20T08:19:26.430Z",
         "attributes_publishedAt": "2023-03-20T08:19:26.425Z",
         "attributes_images_data": null,
-        "submissionLikes": 22
+        "submissionLikes": 22,
+        "hehe": 76
     },
     {
-        "id": 77,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Здоровье, образование, спорт и культура",
         "attributes_feature_properties_data_description": "1. Давняя идея - речные трамваи для прогулок по Амуру. Ремонт речного вокзала. Привлечёт туристов. Будет больше денег в городе. \n2. Арт-пространства для выставочной и обучающей деятельности художников, фотографов. Как профессионалов, так и любителей. \n3. Проведение фестивалей по типу «Нескучных акций». Они давали возможность послушать молодых исполнителей разных жанров, увидеть творчество знаменитых артистов. ",
@@ -1697,10 +1696,10 @@
         "attributes_updatedAt": "2023-03-20T08:20:28.913Z",
         "attributes_publishedAt": "2023-03-20T08:20:28.910Z",
         "attributes_images_data": null,
-        "submissionLikes": 36
+        "submissionLikes": 36,
+        "hehe": 77
     },
     {
-        "id": 78,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Другое",
         "attributes_feature_properties_data_description": "Здравствуйте. Проживаю в частном секторе, а именно посёлке Победа. У нас отвратительные дороги, отсутствует освещение и интернет. Люди с ОВЗ не могут ходить пешком по нашим дорогам без отсутствия кого либо, тк даже здоровые люди часто испытывают дискомфорт, да что уж говорить, машины проезжают плохо! Интернет настолько плохой что детям приходится ходить в гости к друзьям из других районов (где хороший интернет) чтобы делать домашнее задание, а про отсутствие освещения я вообще молчу. Так же детям негде гулять, площадки детские также отсутствуют и скорее всего вообще не появятся. Все жители частного сектора против строительства, так называемой \"Прогулочной набережной\" вдоль нашего посёлка, но раз наше мнение игнорируется, будьте добры благоустроить и сам посёлок!!!!! ",
@@ -1718,10 +1717,10 @@
         "attributes_updatedAt": "2023-03-20T08:20:42.411Z",
         "attributes_publishedAt": "2023-03-20T08:20:42.408Z",
         "attributes_images_data": null,
-        "submissionLikes": 26
+        "submissionLikes": 26,
+        "hehe": 78
     },
     {
-        "id": 79,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Жилые дома и дворы",
         "attributes_feature_properties_data_description": "В этом городе дворы даже на центральных улицах с отвратительным дорожным покрытием. Ямы, ухабы и пр. Помимо этого, практически нет освещения во дворах. Ходить опасно зимой после 17-00, потому что ничего не видно. На Мира 30 убитые напрочь дворы.",
@@ -1740,10 +1739,10 @@
         "attributes_updatedAt": "2023-03-20T08:20:54.223Z",
         "attributes_publishedAt": "2023-03-20T08:20:54.219Z",
         "attributes_images_data": null,
-        "submissionLikes": 21
+        "submissionLikes": 21,
+        "hehe": 79
     },
     {
-        "id": 80,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Общественные пространства, природа и экология",
         "attributes_feature_properties_data_description": "Нам нужны площадки для выгула животных и информационная компания, чтобы люди научились ими пользоваться. На краевом уровне надо вводить штрафы для тех, кто не убирает за своими собаками, так как проблема существует и в Хабаровске.  Все прекрасные планы настроить парков и арт-пространств выглядят смешно, пока город утопает в грязи и антисантарии. Да и территорию новых объектов без введения этих мер постигнет та же участь. ",
@@ -1763,10 +1762,10 @@
         "attributes_updatedAt": "2023-03-20T08:21:06.129Z",
         "attributes_publishedAt": "2023-03-20T08:21:06.126Z",
         "attributes_images_data": null,
-        "submissionLikes": 30
+        "submissionLikes": 30,
+        "hehe": 80
     },
     {
-        "id": 81,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Здоровье, образование, спорт и культура",
         "attributes_feature_properties_data_description": "Необходимо вкладывать деньги в развитие спортивной инфраструктуры. На базе Снежинка туалеты с советских времён в виде дырок в полу и вся внутренняя отделка. Бассейн ЗЛК в таком же плачевном состоянии. Может быть, передать в частные руки.",
@@ -1784,10 +1783,10 @@
         "attributes_updatedAt": "2023-03-20T08:21:20.355Z",
         "attributes_publishedAt": "2023-03-20T08:21:20.342Z",
         "attributes_images_data": null,
-        "submissionLikes": 16
+        "submissionLikes": 16,
+        "hehe": 81
     },
     {
-        "id": 82,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Дороги и транспорт",
         "attributes_feature_properties_data_description": "Расширить автострады в городе за счет трамвайных путей, особенно актуально перекресток роснефти комшоссе, где постоянно пробки в часы пик.",
@@ -1806,10 +1805,10 @@
         "attributes_updatedAt": "2023-03-20T08:21:30.813Z",
         "attributes_publishedAt": "2023-03-20T08:21:30.810Z",
         "attributes_images_data": null,
-        "submissionLikes": 10
+        "submissionLikes": 10,
+        "hehe": 82
     },
     {
-        "id": 83,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Дороги и транспорт",
         "attributes_feature_properties_data_description": "Cтроительства скоростной железной дороги Хабаровск – Комсомольск.\nСкоростная железная дорога может связать города Хабаровск и Комсомольск-на-Амуре, где созданы первые в России территории опережающего развития (ТОР или ТОСЭР).\nВ настоящее время два города связывает автомобильная дорога – время в пути на автомашине составляет около 5 часов, на обычном поезде путь займет около 10 часов, на самолете – один час.\nПри реализации такого проекта (идеи), можно было быстро ездить из Комсомольска в Хабаровск, время составит 4 часа по такой дороге\".\nТехнически такой проект осуществить можно, однако на его реализацию необходимо время.",
@@ -1879,10 +1878,10 @@
         "attributes_images_data_0_attributes_provider_metadata": null,
         "attributes_images_data_0_attributes_createdAt": "2023-03-19T14:48:08.482Z",
         "attributes_images_data_0_attributes_updatedAt": "2023-03-19T14:48:08.482Z",
-        "submissionLikes": 51
+        "submissionLikes": 51,
+        "hehe": 83
     },
     {
-        "id": 84,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_test": null,
         "attributes_feature_properties_data_type": "Общественные пространства, природа и экология",
@@ -1911,10 +1910,10 @@
         "attributes_comments_data_0_attributes_updatedAt": "2023-04-08T12:50:50.750Z",
         "attributes_comments_data_0_attributes_publishedAt": "2023-04-08T12:50:50.746Z",
         "attributes_images_data": null,
-        "submissionLikes": 67
+        "submissionLikes": 67,
+        "hehe": 84
     },
     {
-        "id": 85,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Другое",
         "attributes_feature_properties_data_description": "Мне 31. Сам поездил по стране, друзья товарищи отдыхают за границей. Первое впечатление у людей от больших городов, других стран - \"боже как там чисто!\"\nИ вот ведь действительно, у нас эстетически неприятно находится, всё выглядит мрачным, вот эта пыль дорог, трова не газонная, а просто дикорос. Тротуарные дорожки разбитые, грязные, урн для мусора порой не сыщешь. Грязь, земля и пыль от \"газона\" постоянно на дороге, есть же пример и опыт других стран - вдоль дорогие между газоном и проезжей частью делают специальные канавы, которые задерживают грязь. Моё предложение и идея в том, что нужно сделать город эстетически приятным и ухоженным, с нормальными тротуарами, газонами, урнами. Создать такую среду, в которой даже последней \"свинье\" будет стыдно бросить мусор. Собачников обязать убирать \"коричку\" за своими псами. Сделать так, что бы город выглядил привлекательным, приятным, опрятным. И да, далеко не все оценят, но уверен что большенство. Как раз, то большенство что в итоге отсюда и уезжает, образованное и интелегентное. \nГотов помочь с разработкой и организацией.",
@@ -1933,10 +1932,10 @@
         "attributes_updatedAt": "2023-03-21T07:43:11.024Z",
         "attributes_publishedAt": "2023-03-21T07:43:11.021Z",
         "attributes_images_data": null,
-        "submissionLikes": 39
+        "submissionLikes": 39,
+        "hehe": 85
     },
     {
-        "id": 86,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Общественные пространства, природа и экология",
         "attributes_feature_properties_data_description": "Исключить наличие в городе собак на самовыгуле. Как с владельцами, так и без владельцев. Безнадзорных собак убрать с улиц города.\nЗапретить подкармливать бездомных собак на жилмассивах и в общественных местах.\nЗа выгул домашней собаки без поводка - ввести штрафные санкции.",
@@ -1954,10 +1953,10 @@
         "attributes_updatedAt": "2023-03-21T07:43:26.913Z",
         "attributes_publishedAt": "2023-03-21T07:43:26.904Z",
         "attributes_images_data": null,
-        "submissionLikes": 86
+        "submissionLikes": 86,
+        "hehe": 86
     },
     {
-        "id": 87,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Дороги и транспорт",
         "attributes_feature_properties_data_description": "Идея проста-верните то что было до вас!Конкретно светофор на п.Парковый на ком.шоссе.До этого он был, но ваши западные \"рационализаторы\"посчитали что люди могут летать или ползать как черви поэтому облегчили жизнь людям,внесли в жизнь разнообразие:выживи если сможешь,переходя 6пол.дорогу.Квест по комсомольски.Не верите -велком.",
@@ -1977,10 +1976,10 @@
         "attributes_updatedAt": "2023-03-21T08:30:49.037Z",
         "attributes_publishedAt": "2023-03-21T08:30:49.034Z",
         "attributes_images_data": null,
-        "submissionLikes": 9
+        "submissionLikes": 9,
+        "hehe": 87
     },
     {
-        "id": 88,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_test": null,
         "attributes_feature_properties_data_type": "Общественные пространства, природа и экология",
@@ -2053,10 +2052,10 @@
         "attributes_images_data_0_attributes_provider_metadata": null,
         "attributes_images_data_0_attributes_createdAt": "2023-03-21T04:15:57.942Z",
         "attributes_images_data_0_attributes_updatedAt": "2023-03-21T04:15:57.942Z",
-        "submissionLikes": 17
+        "submissionLikes": 17,
+        "hehe": 88
     },
     {
-        "id": 89,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_test": null,
         "attributes_feature_properties_data_type": "Жилые дома и дворы",
@@ -2079,10 +2078,10 @@
         "attributes_updatedAt": "2023-03-21T07:57:09.532Z",
         "attributes_publishedAt": "2023-03-21T07:57:09.528Z",
         "attributes_images_data": null,
-        "submissionLikes": 11
+        "submissionLikes": 11,
+        "hehe": 89
     },
     {
-        "id": 90,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_test": null,
         "attributes_feature_properties_data_type": "Общественные пространства, природа и экология",
@@ -2104,10 +2103,10 @@
         "attributes_updatedAt": "2023-03-21T07:57:32.305Z",
         "attributes_publishedAt": "2023-03-21T07:57:32.300Z",
         "attributes_images_data": null,
-        "submissionLikes": 12
+        "submissionLikes": 12,
+        "hehe": 90
     },
     {
-        "id": 91,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_test": null,
         "attributes_feature_properties_data_type": "Здоровье, образование, спорт и культура",
@@ -2129,10 +2128,10 @@
         "attributes_updatedAt": "2023-03-21T07:58:22.652Z",
         "attributes_publishedAt": "2023-03-21T07:58:22.647Z",
         "attributes_images_data": null,
-        "submissionLikes": 16
+        "submissionLikes": 16,
+        "hehe": 91
     },
     {
-        "id": 92,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Дороги и транспорт",
         "attributes_feature_properties_data_description": "Запрет парковок вдоль правой полосы движения в будние дни в рабочее время и в час-пик. Или организовать велодорожки. \nВсе больше комсомольчан с середины апреля и до середины октября предпочитают пользоваться велосипедами. Город очень удобен для велопередвижения. Широкие ровные дороги, небольшие расстояния. Но к сожалению, велопоездкам очень мешают автомобили, припаркованные вдоль дороги. И ладно бы их парковали аккуратно, а то ставят как попало. Некоторые умудряются занять 1,5 полосы движения, что очень сильно мешает движению на велосипеде. Пример тому пр. Мира в районе детской поликлиник 1 или в районе кинотеатра Факел.  Велодорожки почти отсутствуют. Дороги ремонтируются без учета велосипедистов. Езда по тротуарам нежелательна, так как это небезопасно для пешеходов, да и неудобно. ",
@@ -2152,10 +2151,10 @@
         "attributes_updatedAt": "2023-03-21T07:59:24.737Z",
         "attributes_publishedAt": "2023-03-21T07:59:24.734Z",
         "attributes_images_data": null,
-        "submissionLikes": 14
+        "submissionLikes": 14,
+        "hehe": 92
     },
     {
-        "id": 93,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Дороги и транспорт",
         "attributes_feature_properties_data_description": "Прежде, чем вбухивать деньги в дороги, нужно провести модернизацию асфальтового завода. Качество асфальта плохое. Новые дороги, через два года, нуждаются в ремонте. ",
@@ -2173,10 +2172,10 @@
         "attributes_updatedAt": "2023-03-21T08:00:06.451Z",
         "attributes_publishedAt": "2023-03-21T08:00:06.448Z",
         "attributes_images_data": null,
-        "submissionLikes": 21
+        "submissionLikes": 21,
+        "hehe": 93
     },
     {
-        "id": 94,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Другое",
         "attributes_feature_properties_data_description": "Поднять заработную плату людям. ",
@@ -2194,10 +2193,10 @@
         "attributes_updatedAt": "2023-03-21T08:00:20.077Z",
         "attributes_publishedAt": "2023-03-21T08:00:20.073Z",
         "attributes_images_data": null,
-        "submissionLikes": 31
+        "submissionLikes": 31,
+        "hehe": 94
     },
     {
-        "id": 95,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Здоровье, образование, спорт и культура",
         "attributes_feature_properties_data_description": "Городу необходим аквапарк, так как летом не все могут выехать к морю, в Амуре и других водоёмах купание запрещено, просто катастрофа. Да и зимой аквапарк пустовать не будет. ",
@@ -2215,10 +2214,10 @@
         "attributes_updatedAt": "2023-03-21T08:00:56.376Z",
         "attributes_publishedAt": "2023-03-21T08:00:56.372Z",
         "attributes_images_data": null,
-        "submissionLikes": 18
+        "submissionLikes": 18,
+        "hehe": 95
     },
     {
-        "id": 96,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Другое",
         "attributes_feature_properties_data_description": "Идей для улучшения нашего города очень много. Многие написаныые здесь идеи я поддерживаю. Но как говорил Кузьма Прутков: \"Зри в корень\". В городе нет фирм которые могут качественно построить дом, детский сад, спортивный комплекс, дорогу... И все мы это видим. Не могут достроить детский сад, медицинские сооружения. Не строятся жилые дома. Дороги разрушаются после первой зимы. Все на что способны строители это торговые центры, но и те ломаются. Нужна крупная строительная компания с жестким упоавлением, с государственным участием, которая начнет, научит и тп строительство(у). И все у нас будет. Чтобы воровали меньше и строили хорошо, а не латали каждый год одни и те же дыры, в том числе в городском бюджете. ",
@@ -2238,10 +2237,10 @@
         "attributes_updatedAt": "2023-03-21T08:06:01.273Z",
         "attributes_publishedAt": "2023-03-21T08:06:01.268Z",
         "attributes_images_data": null,
-        "submissionLikes": 12
+        "submissionLikes": 12,
+        "hehe": 96
     },
     {
-        "id": 97,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_test": null,
         "attributes_feature_properties_data_type": "Общественные пространства, природа и экология",
@@ -2262,10 +2261,10 @@
         "attributes_updatedAt": "2023-03-21T08:06:24.175Z",
         "attributes_publishedAt": "2023-03-21T08:06:24.171Z",
         "attributes_images_data": null,
-        "submissionLikes": 15
+        "submissionLikes": 15,
+        "hehe": 97
     },
     {
-        "id": 98,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Дороги и транспорт",
         "attributes_feature_properties_data_description": "После схода снега с проезжей части, песок которым посыпали улицы зимой остается лежать на обочинах дорог у бордюров, на разделительных полосах в течении всего летнего сезона. Уборка этого песка не ведется! Даже на новых дорогах за 2 года накопилось столько песка и грязи, то там уже прорастает трава. Это создает не опрятный вид городских улиц. Песок разносится ветром по проезжей части. Пыль и грязь висят в воздухе из за этого. Машины с метелками только поднимают пыль! Предложение - задействовать на уборках улиц города больше специальных уборочных вакуумных машин для уборки улиц. Как это делается в других городах России. наступил 21 век!",
@@ -2285,10 +2284,10 @@
         "attributes_updatedAt": "2023-03-21T08:07:30.543Z",
         "attributes_publishedAt": "2023-03-21T08:07:30.539Z",
         "attributes_images_data": null,
-        "submissionLikes": 28
+        "submissionLikes": 28,
+        "hehe": 98
     },
     {
-        "id": 99,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Дороги и транспорт",
         "attributes_feature_properties_data_description": "Привести дороги города в состояние, комфортное для передвижения по ним транспортных средств и пешеходов",
@@ -2306,10 +2305,10 @@
         "attributes_updatedAt": "2023-03-21T08:08:01.020Z",
         "attributes_publishedAt": "2023-03-21T08:08:01.015Z",
         "attributes_images_data": null,
-        "submissionLikes": 16
+        "submissionLikes": 16,
+        "hehe": 99
     },
     {
-        "id": 100,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Жилые дома и дворы",
         "attributes_feature_properties_data_description": "Вы можете делать все что угодно в любой сфере. И это станет улучшением. Продукты низкого качества. Медицины нет.  Транспорта нет. Мест отдыха нет. Дорог нет. Количество рабочих мест сокращается.  А... да... много дамб, но все недостроенные, нужны еще деньги. Выбирайте что хотите.",
@@ -2327,10 +2326,10 @@
         "attributes_updatedAt": "2023-03-21T08:09:11.397Z",
         "attributes_publishedAt": "2023-03-21T08:09:11.394Z",
         "attributes_images_data": null,
-        "submissionLikes": 15
+        "submissionLikes": 15,
+        "hehe": 100
     },
     {
-        "id": 101,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Производство, торговля и услуги",
         "attributes_feature_properties_data_description": "Самая большая проблема Комсомольска это мизерные зарплаты и отсутствие рабочих мест. Жизнь у нас дорогая и растет в цене каждый год. Добавьте сюда суровый климат. Северная надбавка никак не решает эту проблему. Весь бизнес,  как и люди уезжают поближе к МСК. Молодежи тут вообще ничего не светит кроме как идти на заводы гайки крутить. Студентам из IT сферы и подавно. Вы можете как угодно улучшать город, дороги и прочее, но люди будут бежать отсюда до тех пор, пока не смогут достойно зарабатывать в этом городе.  ",
@@ -2350,10 +2349,10 @@
         "attributes_updatedAt": "2023-03-21T08:16:58.149Z",
         "attributes_publishedAt": "2023-03-21T08:16:58.146Z",
         "attributes_images_data": null,
-        "submissionLikes": 26
+        "submissionLikes": 26,
+        "hehe": 101
     },
     {
-        "id": 102,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Жилые дома и дворы",
         "attributes_feature_properties_data_description": "Отремонтировать все подъезды в жилых домах ",
@@ -2371,10 +2370,10 @@
         "attributes_updatedAt": "2023-03-21T08:17:37.430Z",
         "attributes_publishedAt": "2023-03-21T08:17:37.427Z",
         "attributes_images_data": null,
-        "submissionLikes": 11
+        "submissionLikes": 11,
+        "hehe": 102
     },
     {
-        "id": 103,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Дороги и транспорт",
         "attributes_feature_properties_data_description": "Необходимо связать Комсомольский и Амурский районы и возможно другие, сетью скоростных электропоездов. Для того что бы люди из поселков и городов могли свободно добираться до работы в другие населенные пункты.",
@@ -2392,10 +2391,10 @@
         "attributes_updatedAt": "2023-03-21T08:18:44.379Z",
         "attributes_publishedAt": "2023-03-21T08:18:44.376Z",
         "attributes_images_data": null,
-        "submissionLikes": 16
+        "submissionLikes": 16,
+        "hehe": 103
     },
     {
-        "id": 104,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Дороги и транспорт",
         "attributes_feature_properties_data_description": "городу аэропорт нужен с рейсами, хотя бы во Владивосток (в транспортный хаб), тк у людей острое психологическое чувство транспортной отдалённости. есть в городе 2 аэропорта, которые можно немного модернизировать (на авиазаводе и Хурба). сейчас все летают через Хабаровск, 400 км до него",
@@ -2413,10 +2412,10 @@
         "attributes_updatedAt": "2023-03-21T08:19:20.415Z",
         "attributes_publishedAt": "2023-03-21T08:19:20.413Z",
         "attributes_images_data": null,
-        "submissionLikes": 22
+        "submissionLikes": 22,
+        "hehe": 104
     },
     {
-        "id": 105,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Здоровье, образование, спорт и культура",
         "attributes_feature_properties_data_description": "Большая нехватка загородных лагерей. Детям негде отдыхать, негде оздоравливаться свежим воздухом . Почти все лагеря закрыты. Побывала во всех  загородных лагерях без исключения. Самый лучший лагерь был \" Корабел\"  - это 5- ти звёздочный отель для детей. Может быть можно как - то его восстановить?",
@@ -2436,10 +2435,10 @@
         "attributes_updatedAt": "2023-03-21T11:04:04.653Z",
         "attributes_publishedAt": "2023-03-21T11:04:04.647Z",
         "attributes_images_data": null,
-        "submissionLikes": 10
+        "submissionLikes": 10,
+        "hehe": 105
     },
     {
-        "id": 106,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Другое",
         "attributes_feature_properties_data_description": "Сделать капитальный ремонт в военкомате, со времен постройки здания ни одного ремонта.",
@@ -2463,10 +2462,10 @@
         "attributes_comments_data_0_attributes_updatedAt": "2023-04-06T13:10:04.105Z",
         "attributes_comments_data_0_attributes_publishedAt": "2023-04-06T13:10:04.100Z",
         "attributes_images_data": null,
-        "submissionLikes": 4
+        "submissionLikes": 4,
+        "hehe": 106
     },
     {
-        "id": 107,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_test": null,
         "attributes_feature_properties_data_type": "Дороги и транспорт",
@@ -2489,10 +2488,10 @@
         "attributes_updatedAt": "2023-03-21T13:44:18.649Z",
         "attributes_publishedAt": "2023-03-21T13:44:18.644Z",
         "attributes_images_data": null,
-        "submissionLikes": 6
+        "submissionLikes": 6,
+        "hehe": 107
     },
     {
-        "id": 108,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Дороги и транспорт",
         "attributes_feature_properties_data_description": "Дороги в ужасном состоянии, особенно во дворах, яма на яме, я считаю это огромная проблема для всех жителей Комсомольска",
@@ -2512,10 +2511,10 @@
         "attributes_updatedAt": "2023-03-22T08:34:53.049Z",
         "attributes_publishedAt": "2023-03-22T08:34:53.044Z",
         "attributes_images_data": null,
-        "submissionLikes": 0
+        "submissionLikes": 0,
+        "hehe": 108
     },
     {
-        "id": 109,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Дороги и транспорт",
         "attributes_feature_properties_data_description": "Своевременно, регулярно и качество выполнять очистку дорог и пешеходных тротуаров и дорожек от снега",
@@ -2533,10 +2532,10 @@
         "attributes_updatedAt": "2023-03-22T08:35:00.116Z",
         "attributes_publishedAt": "2023-03-22T08:35:00.113Z",
         "attributes_images_data": null,
-        "submissionLikes": 0
+        "submissionLikes": 0,
+        "hehe": 109
     },
     {
-        "id": 110,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Общественные пространства, природа и экология",
         "attributes_feature_properties_data_description": "Организовать движение автобусов со строгим соблюдением графиков\nВосстановить работу трамваев",
@@ -2554,10 +2553,10 @@
         "attributes_updatedAt": "2023-03-22T08:35:13.362Z",
         "attributes_publishedAt": "2023-03-22T08:35:13.359Z",
         "attributes_images_data": null,
-        "submissionLikes": 0
+        "submissionLikes": 0,
+        "hehe": 110
     },
     {
-        "id": 111,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Общественные пространства, природа и экология",
         "attributes_feature_properties_data_description": "Парк Гагарина, как диснейленд \nПарк Строителя как большая разнообразная спорт площадка \nПарк ЗЛК как площадка для молодёжных мероприятий и зимой и летом\nПарк ЖД с фонтанами у красивыми аллеями\nВсе  ДК восстановить,вместо того чтобы строить новые неисполбзованые здания \nДороги вовремя чистить и ремонтировать\nДорогу с Дружбы до города сделать с стрижеными из деревьев фигурами и огнями\nМылки,сделать зоной отдыха и туризма,полноценных пляжей и кафе,кофе,и мусора \nНабережную доделать \nСкверы позволить вовремя облагородить и давать возможность там творить и это даже при условии, что деревья не будут вырубаться",
@@ -2575,10 +2574,10 @@
         "attributes_updatedAt": "2023-03-22T08:37:06.479Z",
         "attributes_publishedAt": "2023-03-22T08:37:06.474Z",
         "attributes_images_data": null,
-        "submissionLikes": 0
+        "submissionLikes": 0,
+        "hehe": 111
     },
     {
-        "id": 112,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Другое",
         "attributes_feature_properties_data_description": "В городе не равномерно развиты районы, т.е. центр развит, а вот такие районы как Менделеева,  6 участок, не развиты, нет аптек, банкоматов, все социальные, учебные и культурные объекты находятся от этих районов далеко. Чтобы добраться до института или пенсионного фонда надо ехать на двух автобусах и тратить много времени и денег.  Да и жилье в этих районах не котируется и жители вынуждены хорошие с дорогим ремонтом квартиры продавать очень дешево. Следует продумать как развивать эти районы или уже дать возможность жителям этих районов переехать в более благополучные районы города. ",
@@ -2597,10 +2596,10 @@
         "attributes_updatedAt": "2023-03-22T08:37:19.613Z",
         "attributes_publishedAt": "2023-03-22T08:37:19.607Z",
         "attributes_images_data": null,
-        "submissionLikes": 0
+        "submissionLikes": 0,
+        "hehe": 112
     },
     {
-        "id": 114,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_test": null,
         "attributes_feature_properties_data_type": "Жилые дома и дворы",
@@ -2623,10 +2622,10 @@
         "attributes_updatedAt": "2023-03-22T08:39:04.284Z",
         "attributes_publishedAt": "2023-03-22T08:39:04.281Z",
         "attributes_images_data": null,
-        "submissionLikes": 0
+        "submissionLikes": 0,
+        "hehe": 114
     },
     {
-        "id": 115,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Другое",
         "attributes_feature_properties_data_description": "Жил до 39 лет в Кмс, но переехал 4 года назад в СПб, несмотря на очень устроенный быт и хорошие доходы. Был прошлым летом здесь в гостях - увидел, что все в городе стало  только ещё хуже, чем до отъезда...\nИсключая частности, общие проблемы города:\n\n1. Для поездки куда-либо за границу или на запад нашей страны, необходимость добираться до Хабаровска - трястись 6 часов в автобусе, рискуя оказаться в кювете (т.к. и дорога между городами в не очень хорошем состоянии и культура вождения у водителей оставляет желать лучшего), либо ночь ехать на поезде (более комфортно) - всё это порядочно выматывает (особенно, если есть разница часовых поясов). Тут сразу возникает логичная мысль -  давайте воскресим Кмс аэропорт в Хурбе (я кстати, до конца 90-х годов оттуда летал в Москву постоянно, удобно было, конечно)! Однако, с момента его полноценного (круглосуточного!) функционирования прошло уже много лет, и какая там ситуация с собственниками и техническим состоянием?...\n\n2. Вопрос уборки снега зимой и мусора в теплое время года - думаю, несколько факторов на это влияют: бюджет не резиновый, малая ответственность, отсутствие урн и несвоевременная их уборка, недостаточно высокая культура у части населения (это касается и уборки за своими питомцами и спокойное выбрасывание мусора на землю). Это и опасность подскользнуться, упасть и сломать что-нибудь в холодное время года и ощущение \"свинарника\" в теплое.\n\n3. По поводу жалоб на строительство новых домов: насколько я помню квартир на вторичном рынке в городе достаточно; также снесли \"аул\" в центре города и застроили новыми домами. Здесь нехватки кв. метров не может быть, тем более идет отток населения, а не приток, как в тот же Краснодар (где постоянно у 1-х классов в школах буквы из всего алфавита русского языка ))\n\n4. По поводу строительства аквапарка: это уже обсуждалось ранее - был вывод, что это нерентабельно с данным климатом и количеством населения\n\n5. По поводу трамвайных путей: всем уже понятно, что возврата к трамваю не будет и надо эти пути демонтировать для расширения дороги, но власти всё не решаются их убрать (опасаясь недовольства небольшой части населения?)\n\n6. Уровень зарплат на крупных предприятиях, кстати, вырос. Однако и стоимость жизни здесь выше, чем в европейской части страны. Покупательная способность условных 50 тысяч зарплаты Кмс эквивалентна 30тыс. зарплаты на западе. А на западе в крупных городах зп выше, чем в Кмс. Вот и считайте. \n\n7. Возвращаясь к транспортной доступности - достаточно большие расценки на перелёт на запад на отдых. Это и понятно - расстояния большие. Предприятия раз в 2 года оплачивают проезд - это тоже выручает. Но, всё-равно: ощущение оторванности и отдаленности незримо присутствует.\n\n8. Качество ремонта дорог, дворов, зданий - невысокое. Но это, думаю, системная проблема страны - результат торгов по конкурсу на самую низкую цену.\n\n9. Отсутствие общественных туалетов на улицах - действительно, проблема.\n\n10. Благоустройство общественных пространств, освещение, поддержание дворов, косметический ремонт зданий, облагораживание лесопарковой зоны, детские площадки и тьма разнообразных хороших предложений требует БЮДЖЕТА города. А он в городе, который платит весьма значительные налоги, весьма ограничен  - это несправедливо!  \n\nПодытоживая вышесказанное: те, кто бывает на западе страны и видит, как развита жизнь там, конечно, волей-неволей захотят уехать, т.к. там развитие видно воочию, а в Кмс оно идет черепашьими темпами. Жизнь идет и можно её проживать в более комфортных местах. \nВо времена СССР люди ехали на ДВ за \"длинным рублём\" и территория развивалась опережающими темпами. Сейчас - сами видите.\nОтток населения с ДВ всё возрастающими темпами, наконец-то, обратил на себя внимание властей, но как быстро им удастся замедлить его, а, быть может, и повернуть вспять - зависит   не только от бесконечных прожектов, а от реальных дел. ",
@@ -2645,10 +2644,10 @@
         "attributes_updatedAt": "2023-03-22T08:44:03.707Z",
         "attributes_publishedAt": "2023-03-22T08:44:03.703Z",
         "attributes_images_data": null,
-        "submissionLikes": 0
+        "submissionLikes": 0,
+        "hehe": 115
     },
     {
-        "id": 116,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_test": null,
         "attributes_feature_properties_data_type": "Дороги и транспорт",
@@ -2670,10 +2669,10 @@
         "attributes_updatedAt": "2023-03-24T07:33:20.333Z",
         "attributes_publishedAt": "2023-03-24T07:33:20.330Z",
         "attributes_images_data": null,
-        "submissionLikes": 0
+        "submissionLikes": 0,
+        "hehe": 116
     },
     {
-        "id": 117,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Здоровье, образование, спорт и культура",
         "attributes_feature_properties_data_description": "Приведите в нормальное состояние садики школы придомовые территории , касается асфальта подходы к учреждениям ... Куда не посмотри там асфальт то еще 70 годов ... А также сделать как ито ограждения  к входам детских садов чтоб машины не парковались прям возле входов и не травили детей своими газами ...",
@@ -2695,10 +2694,10 @@
         "attributes_updatedAt": "2023-03-24T07:33:58.148Z",
         "attributes_publishedAt": "2023-03-24T07:33:58.144Z",
         "attributes_images_data": null,
-        "submissionLikes": 0
+        "submissionLikes": 0,
+        "hehe": 117
     },
     {
-        "id": 118,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Жилые дома и дворы",
         "attributes_feature_properties_data_description": "Сделайте освещение и дороги в Поселках города ",
@@ -2720,10 +2719,10 @@
         "attributes_updatedAt": "2023-03-24T07:34:07.344Z",
         "attributes_publishedAt": "2023-03-24T07:34:07.341Z",
         "attributes_images_data": null,
-        "submissionLikes": 0
+        "submissionLikes": 0,
+        "hehe": 118
     },
     {
-        "id": 119,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Дороги и транспорт",
         "attributes_feature_properties_data_description": "Пешеходные период нужны. На всех улицах через каждые 100 метров. Без светофоров. Максимум, мигающий жёлтый. ",
@@ -2741,10 +2740,10 @@
         "attributes_updatedAt": "2023-03-24T07:34:50.477Z",
         "attributes_publishedAt": "2023-03-24T07:34:50.475Z",
         "attributes_images_data": null,
-        "submissionLikes": 0
+        "submissionLikes": 0,
+        "hehe": 119
     },
     {
-        "id": 122,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Дороги и транспорт",
         "attributes_feature_properties_data_description": "Убрать сфетофор в районе Ленинградская, 75. Пробки из-за него. Переход оставить. И добавить ещё переходов по всем улицам. ",
@@ -2762,10 +2761,10 @@
         "attributes_updatedAt": "2023-03-24T07:35:27.940Z",
         "attributes_publishedAt": "2023-03-24T07:35:27.937Z",
         "attributes_images_data": null,
-        "submissionLikes": 0
+        "submissionLikes": 0,
+        "hehe": 122
     },
     {
-        "id": 124,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Здоровье, образование, спорт и культура",
         "attributes_feature_properties_data_description": "построить новые школы, старые уже разваливаются",
@@ -2785,10 +2784,10 @@
         "attributes_updatedAt": "2023-03-24T07:35:44.057Z",
         "attributes_publishedAt": "2023-03-24T07:35:44.043Z",
         "attributes_images_data": null,
-        "submissionLikes": 0
+        "submissionLikes": 0,
+        "hehe": 124
     },
     {
-        "id": 125,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Общественные пространства, природа и экология",
         "attributes_feature_properties_data_description": "Высаживать цветы в клумбы на улицы города и дворы.вовремя косить траву,обрезать деревья и высаживать новые саженцы.установить больше урн .\nВ парках навести порядок,хотя-бы дородки,свет,скамейки и цветы посадить.",
@@ -2808,10 +2807,10 @@
         "attributes_updatedAt": "2023-03-24T07:36:14.930Z",
         "attributes_publishedAt": "2023-03-24T07:36:14.924Z",
         "attributes_images_data": null,
-        "submissionLikes": 0
+        "submissionLikes": 0,
+        "hehe": 125
     },
     {
-        "id": 126,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Дороги и транспорт",
         "attributes_feature_properties_data_description": "В нашем городе у каждого второго человека есть личный автомобиль. И осознав что это комфортно - никто уже не будет от них отказываться. Но все гаражи и большие парковки находятся на больших расстояниях от жилых дворов. Из-за чего каждое лето во дворах города беспорядок связанный с тем что все паркуются где хотят или где могут это сделать. Автомобили ставят везде, даже под знаками парковки и стоянки запрещены. Предложение пересмотреть все придомовые территории и организовать во дворах нормальные парковочные места с разметками. Думаю можно чуть расширить придомовые дороги, что позволит спокойно размещать автомобили. Так же можно отсыпать придомовые пустующие территории для этого. Понимаю что где то это не экологично, а где то это может не понравится кому то, но это сделает более комфортное проживание автомобилистов в нашем городе. ",
@@ -2830,10 +2829,10 @@
         "attributes_updatedAt": "2023-03-24T07:36:33.877Z",
         "attributes_publishedAt": "2023-03-24T07:36:33.874Z",
         "attributes_images_data": null,
-        "submissionLikes": 0
+        "submissionLikes": 0,
+        "hehe": 126
     },
     {
-        "id": 127,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Дороги и транспорт",
         "attributes_feature_properties_data_description": "Здравствуйте. Повторяться не буду, а подкину новые идеи.\n1 Не возродить трамваи, которые некоторые ждут, а именно заменить их на троллейбусы. \n2 Если наши дорожные работники никак не могу избавиться от затопленных пешеходных переходов, то поднять эти переходы так, как на проспекте Первостроителей (от дома 17 до библиотеки им. Островского). Это и искусственная неровность и сухие ноги горожан.\n3 Сделать на каждой остановке пешеходный переход, в частности это касается остановки Хладокомбинат и остановки ул. Комсомольская по Интернациональному проспекту 12.\nСпасибо.",
@@ -2851,10 +2850,10 @@
         "attributes_updatedAt": "2023-03-24T13:29:19.338Z",
         "attributes_publishedAt": "2023-03-24T13:29:19.334Z",
         "attributes_images_data": null,
-        "submissionLikes": 0
+        "submissionLikes": 0,
+        "hehe": 127
     },
     {
-        "id": 128,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Жилые дома и дворы",
         "attributes_feature_properties_data_description": "Сделать рекламные вывески магазинов в едином стиле, хотя бы на красной линии",
@@ -2873,10 +2872,10 @@
         "attributes_updatedAt": "2023-03-27T07:41:34.826Z",
         "attributes_publishedAt": "2023-03-27T07:41:34.823Z",
         "attributes_images_data": null,
-        "submissionLikes": 0
+        "submissionLikes": 0,
+        "hehe": 128
     },
     {
-        "id": 129,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Дороги и транспорт",
         "attributes_feature_properties_data_description": "Выключить светофор на Ленинградской, 75. Пусть на пешеходном переходе будет мигающий жёлтый. И ежедневная пробка исчезнет. И, вообще, сделать побольше пешеходных переходов на улицах города. ",
@@ -2894,10 +2893,10 @@
         "attributes_updatedAt": "2023-03-27T07:41:42.524Z",
         "attributes_publishedAt": "2023-03-27T07:41:42.520Z",
         "attributes_images_data": null,
-        "submissionLikes": 0
+        "submissionLikes": 0,
+        "hehe": 129
     },
     {
-        "id": 131,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Жилые дома и дворы",
         "attributes_feature_properties_data_description": "Всём доброго времени суток! Большая проблема в городе с выгулами собак. Хозяева данных животных совсем позабыли, что фекалии их любимцев не радуют всех остальных. Это просто минное поле во дворах и пешеходных дорожках!!! Нужно сделать специальные зоны выгула собак, а если гадят на детских площадках, то штрафовать. Так же не плохо бы установить как в больших городах, специальные столбики с лопатками и пакетиками для уборки жизнедеятельности животных. Может хоть как-то это сподвигнет убирать за своими любимцами!!! ",
@@ -2915,10 +2914,10 @@
         "attributes_updatedAt": "2023-03-27T07:41:25.552Z",
         "attributes_publishedAt": "2023-03-27T07:41:25.546Z",
         "attributes_images_data": null,
-        "submissionLikes": 0
+        "submissionLikes": 0,
+        "hehe": 131
     },
     {
-        "id": 132,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Другое",
         "attributes_feature_properties_data_description": "В городе во все времена многогранность проблем сходилась в одной точке - у города и региона нет постоянного хозяина. Сюда мэры , губернаторы и начальники приезжают командовать \"на вахту\", заработать  денег и уехать обратно домой. Отношение к \"службе\" соответствующее. Власть вроде работает, но на необходимом минимуме трудоприкладства чтобы соответствовать должности. Энтузиазма и твердости не проявляя. Часто действуя во вред, не страшно, не им здесь жить. Решение проблемы на федеральном уровне законодательно обязать губернатора и всех членов их семей пожизненно находиться по месту несения службы.\n\nВторое решение. Если с первым не получится. Сделать аналогичным режим для жителей, т.е Очень большую зарплату и Очень длинный отпуск. Тогда степень удовлетворенности условиями проживания увеличится.",
@@ -2937,10 +2936,10 @@
         "attributes_updatedAt": "2023-03-27T07:40:58.671Z",
         "attributes_publishedAt": "2023-03-27T07:40:58.664Z",
         "attributes_images_data": null,
-        "submissionLikes": 0
+        "submissionLikes": 0,
+        "hehe": 132
     },
     {
-        "id": 133,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_test": null,
         "attributes_feature_properties_data_type": "Здоровье, образование, спорт и культура",
@@ -2963,10 +2962,10 @@
         "attributes_updatedAt": "2023-03-27T07:40:18.922Z",
         "attributes_publishedAt": "2023-03-27T07:40:18.918Z",
         "attributes_images_data": null,
-        "submissionLikes": 0
+        "submissionLikes": 0,
+        "hehe": 133
     },
     {
-        "id": 134,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Общественные пространства, природа и экология",
         "attributes_feature_properties_data_description": "Специализированная площадка для кинологических занятий с собаками.\nВ нашем городе нет ни в одном месте такой площадки, людям приходится учиться не в комфортных условиях. Данную площадку требуется оборудовать специализированной урной для сбора экскрементов, чтобы люди могли убрать за своими собаками, тоннель, бум-бревно, лестница-горка, змейка, барьер для собак.",
@@ -2987,10 +2986,10 @@
         "attributes_updatedAt": "2023-03-27T07:39:03.231Z",
         "attributes_publishedAt": "2023-03-27T07:39:03.226Z",
         "attributes_images_data": null,
-        "submissionLikes": 0
+        "submissionLikes": 0,
+        "hehe": 134
     },
     {
-        "id": 135,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Общественные пространства, природа и экология",
         "attributes_feature_properties_data_description": "Организовать огороженную территорию для содержания бездомных собак. У нас пустующих территорий, земли - масса! Для каждой стаи сделать отдельный, огороженный большой вольер. Всё равно живут круглый год на улице. Особо агрессивных и неадекватных особей держать в индивидуальных небольших вольерах, равно как и домашних \"потеряшек\", найденных на улицах (их сразу видно и они разительно отличаются от бездомных псов). Обеспечить транспортную доступность для сердобольных и волонтеров, что бы они могли регулярно приезжать, кормить, убирать экскрименты и ухаживать за своей стаей(которую зачастую они каждый день подкармливают на улицах города, строят им будки и пр.). Можно прям закрепить за каждой такой стаей своих волонтёров, шефство так сказать.\nНеобходимо уже кардинально решать проблему бродячих собак в городе, их с каждым годом всё больше и больше, а это - антисанитария, угроза распространения болезней и регулярные сообщения о проявлении агрессии такими стаями, как к людям, так и к другим животным, а это к комфортной и безопасной городской среде никакого отношения не имеет, хоть вы тут 10 аквапарков постройте. В некоторых дворах и локациях города уже страшно ходить стало.",
@@ -3008,10 +3007,10 @@
         "attributes_updatedAt": "2023-03-27T07:38:51.553Z",
         "attributes_publishedAt": "2023-03-27T07:38:51.547Z",
         "attributes_images_data": null,
-        "submissionLikes": 0
+        "submissionLikes": 0,
+        "hehe": 135
     },
     {
-        "id": 136,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_test": null,
         "attributes_feature_properties_data_type": "Жилые дома и дворы",
@@ -3034,10 +3033,10 @@
         "attributes_updatedAt": "2023-03-27T07:38:39.915Z",
         "attributes_publishedAt": "2023-03-27T07:38:39.911Z",
         "attributes_images_data": null,
-        "submissionLikes": 0
+        "submissionLikes": 0,
+        "hehe": 136
     },
     {
-        "id": 137,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Общественные пространства, природа и экология",
         "attributes_feature_properties_data_description": "Идея очень простая: при проектировании парков, скверов и иных общественных мест планировать расположение тротуаров не таким образом, чтобы они красиво смотрелись с вертолёта губернатора или на Яндекс.картах, а так, чтобы пешеходам удобно было ходить. Желательно располагать так, как люди \"натоптали\". А то наши архитекторы напланируют волновые и круговые тротуары, а потом все возмущаются, почему все ходят по газонам и клумбам. Иначе сказать, хотелось бы, чтобы тротуары были для пешеходов, а не пешеходы для тротуаров.",
@@ -3056,10 +3055,10 @@
         "attributes_updatedAt": "2023-03-29T07:45:42.986Z",
         "attributes_publishedAt": "2023-03-29T07:45:42.983Z",
         "attributes_images_data": null,
-        "submissionLikes": 0
+        "submissionLikes": 0,
+        "hehe": 137
     },
     {
-        "id": 138,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Здоровье, образование, спорт и культура",
         "attributes_feature_properties_data_description": "Прошу рассмотреть  закупку детям с инвалидностью, болеющим сахарным диабетом 1 типа, систему непрерывного мониторинга Либра. За счёт федерального/регионального бюджета. Дети страдающим сахарным диабетом, испытывают самые сложные и страшные дни своей жизни такие как: 1.риски впасть в кому 2.от \"скачек\" сахара страдают почки/ разрушается сосуды что приводит к слепоте, разрушается весь организм и все органы.. родители детей с диабетом, вынуждены обращаться в суды нашего города, проходить сущий ад чтобы выиграть обеспечение. А ведь минздравом России этот мониторинг обязаны выдавать в каждом регионе.. в нашем к сожалению нет денег... дети начиная от полугода болеют диабетом и это очень страшно",
@@ -3079,10 +3078,10 @@
         "attributes_updatedAt": "2023-04-03T09:43:28.531Z",
         "attributes_publishedAt": "2023-04-03T09:43:28.527Z",
         "attributes_images_data": null,
-        "submissionLikes": 0
+        "submissionLikes": 0,
+        "hehe": 138
     },
     {
-        "id": 144,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Жилые дома и дворы",
         "attributes_feature_properties_data_description": "Благоустроить дворы и прилежащие пространства в районе домов по улице Дикопольцева 31, 31/2, 31/3, 31/4, 31/5 и 31/6. Достроить детский сад в районе Дикопольцева 31/6 или же убрать недострой и оформить территорию (озеленение, спортивная площадка, беговая дорожка, места отдыха, оформить пространство для всех возрастов). Отремонтировать проезжую и пешеходную часть, особенно со стороны не лицевого фасада, сделать освещение дворов. Много свободного пространства для реализации различных спортивных и прогулочных зон. ",
@@ -3154,10 +3153,10 @@
         "attributes_images_data_0_attributes_provider_metadata": null,
         "attributes_images_data_0_attributes_createdAt": "2023-04-03T08:12:21.154Z",
         "attributes_images_data_0_attributes_updatedAt": "2023-04-03T08:12:21.154Z",
-        "submissionLikes": 0
+        "submissionLikes": 0,
+        "hehe": 144
     },
     {
-        "id": 145,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Жилые дома и дворы",
         "attributes_feature_properties_data_description": "Хочу чтобы хоть какой-то детский городок появился в нашем дворе, вокруг детям негде погулять",
@@ -3179,10 +3178,10 @@
         "attributes_updatedAt": "2023-04-05T07:58:20.313Z",
         "attributes_publishedAt": "2023-04-05T07:58:20.307Z",
         "attributes_images_data": null,
-        "submissionLikes": 0
+        "submissionLikes": 0,
+        "hehe": 145
     },
     {
-        "id": 146,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Жилые дома и дворы",
         "attributes_feature_properties_data_description": "Установка видеокамер во всех дворах для обеспечения безопасности граждан и их имущества, для решения вопроса незаконной парковки транспорта на газонах. Установка видеокамер на всех улицах города для фиксации нарушений ПДД и незаконных парковок.",
@@ -3202,10 +3201,10 @@
         "attributes_updatedAt": "2023-04-05T07:58:28.633Z",
         "attributes_publishedAt": "2023-04-05T07:58:28.628Z",
         "attributes_images_data": null,
-        "submissionLikes": 0
+        "submissionLikes": 0,
+        "hehe": 146
     },
     {
-        "id": 147,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Общественные пространства, природа и экология",
         "attributes_feature_properties_data_description": "Планов громадье. Ничего просто не выполняеся и ответственности никто не несет. Элементарные условиия для нормальной жизни создайте.Живу в частном доме. У нас в районе Амурлитмаша сделайте  сортировочный центр для мусора на базе фирмы Сталкер.. Живу рядом со Сталкером,а мусор деть некуда!\nВ этом же  районе  по дороге в сторону Снежинки  проведите свет, отремонтируйте дорогу.  С экологией беда. Нефтезавод травит. Что с этим можно сделать? Парк за ДК \"Алмазом\" в плачевном состоянии.  В этом же районе стоит  заброшенное здание  бывшей начальной школы. Откройте там школу или дом творчества для молодежи.",
@@ -3225,10 +3224,10 @@
         "attributes_updatedAt": "2023-04-05T07:58:46.492Z",
         "attributes_publishedAt": "2023-04-05T07:58:46.489Z",
         "attributes_images_data": null,
-        "submissionLikes": 0
+        "submissionLikes": 0,
+        "hehe": 147
     },
     {
-        "id": 148,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Общественные пространства, природа и экология",
         "attributes_feature_properties_data_description": "Помощь волонтерам-зоозащитникам, а также жителям города которые забрали с улицы бездомное животное (кошку, собаку). Помощь в виде компенсаций, льгот, субсидий на содержание и лечение животного. Льготы, компенсации при аренде или приобретении участков земли, домов для таких граждан. Строительство приютов для животных. ",
@@ -3248,10 +3247,10 @@
         "attributes_updatedAt": "2023-04-05T08:03:26.183Z",
         "attributes_publishedAt": "2023-04-05T08:03:26.169Z",
         "attributes_images_data": null,
-        "submissionLikes": 0
+        "submissionLikes": 0,
+        "hehe": 148
     },
     {
-        "id": 149,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Здоровье, образование, спорт и культура",
         "attributes_feature_properties_data_description": "1. Убрать старые трамвайные рельсы и на их месте сделать ограженную велодорожку. \n2. Устанавливать по городу больше тренажёров для взрослых (хотя бы в каждом парке). В азиатских странах это хорошо развито, многие пенсионеры с удовольствием гуляют и занимаются на них. Дети на маленьких все равно не занимаются, а когда на них пытаются подростки и взрослые заниматься - они быстро ломаются. ",
@@ -3269,10 +3268,10 @@
         "attributes_updatedAt": "2023-04-05T08:03:35.709Z",
         "attributes_publishedAt": "2023-04-05T08:03:35.705Z",
         "attributes_images_data": null,
-        "submissionLikes": 0
+        "submissionLikes": 0,
+        "hehe": 149
     },
     {
-        "id": 150,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Общественные пространства, природа и экология",
         "attributes_feature_properties_data_description": "Модернизировать «Детский сказочный городок» на Дземгах, сделать его наподобие места «Новая Голландия»  в СПБ,- с катком, киосками, кафе и тд.",
@@ -3292,10 +3291,10 @@
         "attributes_updatedAt": "2023-04-05T13:33:57.173Z",
         "attributes_publishedAt": "2023-04-05T13:33:57.168Z",
         "attributes_images_data": null,
-        "submissionLikes": 0
+        "submissionLikes": 0,
+        "hehe": 150
     },
     {
-        "id": 151,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Другое",
         "attributes_feature_properties_data_description": "1.Манеж футбольный\n2. Манеж теннисный\n3. Конный манеж\n4. Онлайн главных улиц где постоянные пробки,Повышение пропускного дорожного пути.(улица Базовая,вокзальная,вагоная,кирова,пр.первостроителей, Ленинградская. \n5. Повышение зарплаты на 50% за третьего ребёнка, 75% за четвёртого, 100% процентов за пятого, оставить субсидии по кварплате, детского сада. Пособия все исключить, в РФ понизится безработица и малообеспеченых семей. Повысится рабочий класс всех.                      6. Ремонт дороги улица Жуковского, Городская 2. Уменьшение пробки по Ленинградской в сторону КНПЗ а также и обратно.\n7. Дворовых собак перевозить на необитаемые острова реки Амура (обработанные от размножения).\n8. И это ещё не всё мои идеи.))) ",
@@ -3315,10 +3314,10 @@
         "attributes_updatedAt": "2023-04-10T10:59:59.525Z",
         "attributes_publishedAt": "2023-04-10T10:59:59.519Z",
         "attributes_images_data": null,
-        "submissionLikes": 0
+        "submissionLikes": 0,
+        "hehe": 151
     },
     {
-        "id": 152,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Жилые дома и дворы",
         "attributes_feature_properties_data_description": "Покрасить современными водостойкими красками фасады домов по улицам Ленина, Мира, Интернациональному, Вокзальной , т. к. в настоящее время они имеют очень непрезентабельный и унылый вид. Разработать и реализовать программу ремонта внутриквартальных проездов.",
@@ -3338,10 +3337,10 @@
         "attributes_updatedAt": "2023-04-10T11:00:10.761Z",
         "attributes_publishedAt": "2023-04-10T11:00:10.757Z",
         "attributes_images_data": null,
-        "submissionLikes": 0
+        "submissionLikes": 0,
+        "hehe": 152
     },
     {
-        "id": 153,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_test": null,
         "attributes_feature_properties_data_type": "Дороги и транспорт",
@@ -3364,10 +3363,10 @@
         "attributes_updatedAt": "2023-04-10T11:00:18.404Z",
         "attributes_publishedAt": "2023-04-10T11:00:18.400Z",
         "attributes_images_data": null,
-        "submissionLikes": 0
+        "submissionLikes": 0,
+        "hehe": 153
     },
     {
-        "id": 154,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Жилые дома и дворы",
         "attributes_feature_properties_data_description": "Сделать пешие междворовые (междомовые, межквартальные) маршруты из твердого покрытия. Утопать в грязи каждый день идя из дома вызывает желание переехать в более благоустроенный регион. Тем более когда обращения в администрацию не дают никаких результатов.",
@@ -3388,10 +3387,10 @@
         "attributes_updatedAt": "2023-04-10T11:00:29.247Z",
         "attributes_publishedAt": "2023-04-10T11:00:29.242Z",
         "attributes_images_data": null,
-        "submissionLikes": 0
+        "submissionLikes": 0,
+        "hehe": 154
     },
     {
-        "id": 155,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Общественные пространства, природа и экология",
         "attributes_feature_properties_data_description": "Продумать концепцию  и реализовать БЕСПЛАТНОЕ ТЕПЛОЕ общественное пространство,. Идею легко взять по примеру таких пространств из ближайших стран (например Корея). Когда бесплатные теплые общественные пространства мешаются с бизнесом (кафе и т.д.) Часть территории отведено под бизнес, часть свободного пользования (возможно за счет аренды того же бизнеса). Молодежи негде собираться зимой. Они собирались в торговом центре БУМ, и поэтому там убрали лавочки! Это же очевидно! Из пространств по типу Дома Пионеров выгоняют если ты не на кружок, из кафе тоже самое. Людям негде просто встретиться в тепле. Раньше молодежь собиралась в подъездах, но поставили домофоны. Но оно не должно быть детское, должно быть доступно для каждого возраста!, с тематическими зонами, возможно образовательными, но свободными! Эх мечты, мечты... .",
@@ -3413,10 +3412,10 @@
         "attributes_updatedAt": "2023-04-10T11:01:08.990Z",
         "attributes_publishedAt": "2023-04-10T11:01:08.985Z",
         "attributes_images_data": null,
-        "submissionLikes": 0
+        "submissionLikes": 0,
+        "hehe": 155
     },
     {
-        "id": 156,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Дороги и транспорт",
         "attributes_feature_properties_data_description": "Что произойдет раньше? Я перееду из Комсомольска-на-Амуре или появится тротуар на улице Лесная? ",
@@ -3438,10 +3437,10 @@
         "attributes_updatedAt": "2023-04-10T11:02:47.951Z",
         "attributes_publishedAt": "2023-04-10T11:02:47.946Z",
         "attributes_images_data": null,
-        "submissionLikes": 0
+        "submissionLikes": 0,
+        "hehe": 156
     },
     {
-        "id": 157,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Общественные пространства, природа и экология",
         "attributes_feature_properties_data_description": "Чистить зимой от снега тротуары не только в центре. Выделить хотя бы одну (лучше две) машину для очистки тротуаров на 66 квартал, чтобы сразу при первом снеге она ехала на тротуары 66 квартала. Если есть такая же проблема в других не центральных кварталах, то выделить и им по машинке. А то например в 2021 году весь год тротуары были не чищены на 66ом, даже обращения в администрацию игнорировались (а в 2022 снега толком не было).",
@@ -3463,10 +3462,10 @@
         "attributes_updatedAt": "2023-04-10T11:03:01.929Z",
         "attributes_publishedAt": "2023-04-10T11:03:01.921Z",
         "attributes_images_data": null,
-        "submissionLikes": 0
+        "submissionLikes": 0,
+        "hehe": 157
     },
     {
-        "id": 158,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Другое",
         "attributes_feature_properties_data_description": "Если есть техническая возможность, сделать коллаборацию теплохода ОМ-8 с базой отдыха Шарголь. Чтобы можно было на теплоходе, хотя бы раз в неделю, доплыть до базы Шарголь, соответственно отдохнуть и переночевать там в предоставляемых номерах базы и на следующий день отплыть обратно в Комсомольск. Ом-8 все равно проплывает туда все время (по пути в дальние поселения). Всегда мечтаю прокатиться на открытом теплоходе в сторону Шарголи (по текущим маршрутам так прокатиться очень тяжело технически из-за временных интервалов), думаю таких желающих в городе, как минимум, должно быть не мало. Доход теплохода и Шарголи увеличились бы в разы при должной рекламе с соцсетях.",
@@ -3488,10 +3487,10 @@
         "attributes_updatedAt": "2023-04-10T11:18:02.559Z",
         "attributes_publishedAt": "2023-04-10T11:18:02.555Z",
         "attributes_images_data": null,
-        "submissionLikes": 0
+        "submissionLikes": 0,
+        "hehe": 158
     },
     {
-        "id": 159,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_test": null,
         "attributes_feature_properties_data_type": "Здоровье, образование, спорт и культура",
@@ -3514,10 +3513,10 @@
         "attributes_updatedAt": "2023-04-10T11:18:10.453Z",
         "attributes_publishedAt": "2023-04-10T11:18:10.450Z",
         "attributes_images_data": null,
-        "submissionLikes": 0
+        "submissionLikes": 0,
+        "hehe": 159
     },
     {
-        "id": 160,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Жилые дома и дворы",
         "attributes_feature_properties_data_description": "Добавить в правила благоустройства города правило, по которому закрашивание надписей на фасадах домов должно выполняться в цвет фасада, а не серой краской по розовому фасаду, как пример. Можно ввести уровень допустимого отклонения по тону. Колер стоит копейки, УК не разорятся, маляры не переломятся баночку в цвет развести. Всем приятно будет. А то даже на площади Ленина серая краска по фасаду.",
@@ -3537,10 +3536,10 @@
         "attributes_updatedAt": "2023-04-10T11:18:24.221Z",
         "attributes_publishedAt": "2023-04-10T11:18:24.216Z",
         "attributes_images_data": null,
-        "submissionLikes": 0
+        "submissionLikes": 0,
+        "hehe": 160
     },
     {
-        "id": 161,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Производство, торговля и услуги",
         "attributes_feature_properties_data_description": "Было замечательно, если бы наш город стал IT - столицей ДВФО, чтобы разработчикам программного обеспечения не приходилось переезжать в западные регионы, а они могли бы продолжать жить и работать здесь. ",
@@ -3560,10 +3559,10 @@
         "attributes_updatedAt": "2023-04-10T11:18:37.344Z",
         "attributes_publishedAt": "2023-04-10T11:18:37.340Z",
         "attributes_images_data": null,
-        "submissionLikes": 0
+        "submissionLikes": 0,
+        "hehe": 161
     },
     {
-        "id": 162,
         "attributes_feature_type": "Feature",
         "attributes_feature_properties_data_type": "Общественные пространства, природа и экология",
         "attributes_feature_properties_data_description": "Если бы можно было, то было бы здорово, чтобы пустырь превратили в ухоженное пространство (с отдельно огороженной территорией (большой) для выгула собак) - в районе между Новой Ленина и дамбой. ",
@@ -3584,6 +3583,7 @@
         "attributes_updatedAt": "2023-04-10T11:18:46.246Z",
         "attributes_publishedAt": "2023-04-10T11:18:46.240Z",
         "attributes_images_data": null,
-        "submissionLikes": 0
+        "submissionLikes": 0,
+        "hehe": 162
     }
 ]
