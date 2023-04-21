@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "komsomolsk-on-amur-comment-analysis"
+version = "0.1.0"
+description = ""
+authors = ["modernpacifist <modernpacifist@gmail.com>"]
+readme = "README.md"
+packages = [{include = "komsomolsk_on_amur_comment_analysis"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
