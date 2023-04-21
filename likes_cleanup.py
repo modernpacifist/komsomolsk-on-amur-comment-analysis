@@ -19,26 +19,30 @@ def convert_likes(raw_json):
     return updated_js
 
 
-def flatten_json(y):
-    out = {}
-    def flatten(x, name=''):
-        # If the Nested key-value
-        # pair is of dict type
-        if type(x) is dict:
-            for a in x:
-                flatten(x[a], name + a + '_')
-        # If the Nested key-value
-        # pair is of list type
-        elif type(x) is list:
-            i = 0
-            for a in x:
-                flatten(a, name + str(i) + '_')
-                i += 1
-        else:
-            out[name[:-1]] = x
- 
-    flatten(y)
-    return out
+def flatten_json(raw_json):
+    res = []
+    for y in raw_json:
+        out = {}
+        def flatten(x, name=''):
+            # If the Nested key-value
+            # pair is of dict type
+            if type(x) is dict:
+                for a in x:
+                    flatten(x[a], name + a + '_')
+            # If the Nested key-value
+            # pair is of list type
+            elif type(x) is list:
+                i = 0
+                for a in x:
+                    flatten(a, name + str(i) + '_')
+                    i += 1
+            else:
+                out[name[:-1]] = x
+    
+        flatten(y)
+        res.append(out)
+
+    return res
 
 
 if __name__ == '__main__':
@@ -50,21 +54,8 @@ if __name__ == '__main__':
         exit(1)
 
     updated_js = convert_likes(js)
+    updated_js = flatten_json(updated_js)
 
-    res = []
-    for i in updated_js:
-        res.append(flatten_json(i))
-        # updated_js = flatten_list_of_dicts(updated_js)
-
-    # for j in js:
-    #     attributes = j.get('attributes')
-    #     if attributes is None:
-    #         continue
-    #     submission_likes_count = len(attributes.get('submissionLikes').get('data'))
-    #     j['attributes']['submissionLikes'] = submission_likes_count
-    #     updated_js.append(j)
-
-    # json.dumps()
     with open('./datasets/submissionsWithFormsCleanLikes.json', 'w') as f:
         # json.dump(updated_js, f, ensure_ascii=False, indent=4)
-        json.dump(res, f, ensure_ascii=False, indent=4)
+        json.dump(updated_js, f, ensure_ascii=False, indent=4)
