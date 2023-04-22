@@ -2,6 +2,11 @@
 
 import json
 
+from russiannames.parser import NamesParser
+
+
+NAMEPARSER = NamesParser()
+
 
 def convert_likes(raw_json):
     updated_js = []
@@ -76,6 +81,14 @@ def drop_fields_except(raw_json, fields_to_keep):
     return res
 
 
+def add_gender_field(raw_json):
+    res = []
+    for i in raw_json:
+        i['Gender'] = NAMEPARSER.parse(i.get('ContactName')).get('gender')
+        res.append(i)
+    return res
+
+
 if __name__ == '__main__':
     try:
         with open("./datasets/submissionsWithForms.json") as f:
@@ -98,10 +111,11 @@ if __name__ == '__main__':
     updated_js = rename_field(updated_js, "attributes_feature_geometry_coordinates_0", "CoordinatesLongitude")
     updated_js = rename_field(updated_js, "attributes_feature_geometry_coordinates_1", "CoordinatesLatitude")
     updated_js = rename_field(updated_js, "attributes_createdAt", "CreatedAt")
+    updated_js = add_gender_field(updated_js)
 
-    fields_to_keep = ["id", "SubmissionLikes", "Category", "Description", "Participation", "Money", "Age", "ContactName", "LiveTime", "FeatureType", "GeometryType", "CoordinatesLongitude", "CoordinatesLatitude", "CreatedAt"]
+    fields_to_keep = ["id", "SubmissionLikes", "Category", "Description", "Participation", "Money", "Age", "ContactName", "LiveTime", "FeatureType", "GeometryType", "CoordinatesLongitude", "CoordinatesLatitude", "CreatedAt", "Gender"]
     updated_js = drop_fields_except(updated_js, fields_to_keep)
 
-    with open('./datasets/submissionsWithFormsCleanLikes.json', 'w') as f:
+    with open('./datasets/CleanSubmissionsWithForms.json', 'w') as f:
         json.dump(updated_js, f, ensure_ascii=False, indent=4)
 
