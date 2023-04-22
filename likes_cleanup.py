@@ -38,7 +38,7 @@ def flatten_json(raw_json):
                     i += 1
             else:
                 out[name[:-1]] = x
-    
+
         flatten(y)
         res.append(out)
 
@@ -104,3 +104,4 @@ if __name__ == '__main__':
 
     with open('./datasets/submissionsWithFormsCleanLikes.json', 'w') as f:
         json.dump(updated_js, f, ensure_ascii=False, indent=4)
+
